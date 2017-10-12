@@ -1,5 +1,6 @@
 # pro-cosmetics
 Magazin online de produse cosmetice
+http://pro-cosmetics.eu/
 
 Platforma Wordpress -> Plugin WOOCOMMERCE (plugin pentru magazine online)
 site-ul va fi realizat astfel:
