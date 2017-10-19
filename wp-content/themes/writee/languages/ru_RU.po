@@ -1,0 +1,724 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Writee\n"
+"POT-Creation-Date: 2017-02-25 12:29+0530\n"
+"PO-Revision-Date: 2017-02-25 12:53+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:22
+msgid "Not Found"
+msgstr "не найдено"
+
+#: 404.php:27
+msgid ""
+"The page you are looking for is no longer here, or never existed in the "
+"first place (bummer). You can try searching for what you are looking for "
+"using the form below. If that still doesn't provide the results you are "
+"looking for, you can always start over from the home page."
+msgstr ""
+"Страницы, которую вы ищете больше здесь нет, а может и не было никогда. Вы "
+"можете попробовать поискать на то, что вы ищете, используя форму ниже. Если "
+"это все еще не дает нужного результата, вы всегда можете начать с главной "
+"страницы."
+
+#: archive.php:26
+#, php-format
+msgid "Daily Archives: <span>%s</span>"
+msgstr "Ежедневные архивы: <span>%s</span>"
+
+#: archive.php:28
+#, php-format
+msgid "Monthly Archives: <span>%s</span>"
+msgstr "Архив за месяц: <span>%s</span>"
+
+#: archive.php:30
+#, php-format
+msgid "Yearly Archives: <span>%s</span>"
+msgstr "Ежегодные Архивы: <span>%s</span>"
+
+#: archive.php:32
+msgid "Blog Archives"
+msgstr "Полезное"
+
+#: category.php:26 tag.php:27
+msgid "Feed Subscription"
+msgstr "Подписка на ленты новостей"
+
+#: comments.php:12
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr "Этот пост защищен паролем. Введите пароль для просмотра комментариев."
+
+#: comments.php:18
+msgid "Comments"
+msgstr "Комментарии"
+
+#: comments.php:31
+msgid "&larr; Older Comments"
+msgstr "&larr; Ранние коментарии"
+
+#: comments.php:32
+msgid "Newer Comments &rarr;"
+msgstr "Свежие комментарии &rarr;"
+
+#: comments.php:37
+msgid "Comments are closed."
+msgstr "Комментирование закрыто"
+
+#: comments.php:49
+msgid "Submit"
+msgstr "Отправить"
+
+#: inc/functions/back-compat.php:25 inc/functions/back-compat.php:35
+#: inc/functions/back-compat.php:48
+#, fuzzy, php-format
+msgid ""
+"Writee requires at least WordPress version 4.5. You are running version %s. "
+"Please upgrade and try again."
+msgstr ""
+"Writee требует по крайней мере WordPress версии 4.5. Вы используете версию "
+"%s. Обновите и повторите попытку."
+
+#: inc/functions/customizer.php:17
+msgid "Writee Options"
+msgstr "Writee параметры"
+
+#: inc/functions/customizer.php:18
+msgid "Panel to update writee theme options"
+msgstr "Группа для обновления writee Тема опции"
+
+#: inc/functions/customizer.php:23
+msgid "Layout Options"
+msgstr "Настройки макета"
+
+#: inc/functions/customizer.php:35
+msgid "Website Layout Options"
+msgstr "Параметры макета сайта"
+
+#: inc/functions/customizer.php:38
+msgid "Choose between different layout options to be used as default"
+msgstr "Выберете расположение по умолчанию"
+
+#: inc/functions/customizer.php:40 inc/functions/customizer.php:530
+msgid "No Sidebar"
+msgstr "Без боковых колонок"
+
+#: inc/functions/customizer.php:41 inc/functions/customizer.php:531
+msgid "Left Sidebar"
+msgstr "Боковая панель слева"
+
+#: inc/functions/customizer.php:42 inc/functions/customizer.php:532
+msgid "Right Sidebar"
+msgstr "Боковая панель справа"
+
+#: inc/functions/customizer.php:53
+msgid "Blog Excerpt"
+msgstr "Фрагмент блога"
+
+#: inc/functions/customizer.php:56
+msgid "Turn ON to show auto Excerpt and OFF to show full posts."
+msgstr ""
+"Включите, чтобы показать автоматическая выдержка и OFF, чтобы показать "
+"полные должности."
+
+#: inc/functions/customizer.php:58 inc/functions/customizer.php:84
+#: inc/functions/customizer.php:169 inc/functions/customizer.php:580
+msgid "ON"
+msgstr "Вкл."
+
+#: inc/functions/customizer.php:59 inc/functions/customizer.php:85
+#: inc/functions/customizer.php:170 inc/functions/customizer.php:581
+msgid "OFF"
+msgstr "СКИДКА"
+
+#: inc/functions/customizer.php:67
+msgid "Slider Options"
+msgstr "Настройки слайдера"
+
+#: inc/functions/customizer.php:79
+msgid "Display Slider"
+msgstr "Отображать слайдер"
+
+#: inc/functions/customizer.php:97 inc/functions/customizer.php:115
+msgid "Slider Display Style"
+msgstr "Стиль отображения ползунка"
+
+#: inc/functions/customizer.php:102 inc/functions/customizer.php:556
+#, fuzzy
+msgid "Fluid Layout"
+msgstr "Гибкий макет"
+
+#: inc/functions/customizer.php:103 inc/functions/customizer.php:557
+#, fuzzy
+msgid "Non Fluid Layout"
+msgstr "Не жидкости макета"
+
+#: inc/functions/customizer.php:120 inc/functions/customizer.php:568
+#, fuzzy
+msgid "Latest added posts"
+msgstr "Последнее добавлено постов"
+
+#: inc/functions/customizer.php:121 inc/functions/customizer.php:569
+msgid "Specific category"
+msgstr "Определенная категория"
+
+#: inc/functions/customizer.php:132
+msgid "Slider Post Categories"
+msgstr "Ползунок пост категории"
+
+#: inc/functions/customizer.php:135
+msgid ""
+"Add post categories id comma separated (This option valid only for SPECIFIC "
+"CATEGORY view selection)."
+msgstr ""
+"Добавьте пост категории идентификатор запятую (этот параметр действует "
+"только для конкретной категории вид выбора)."
+
+#: inc/functions/customizer.php:146
+msgid "Number of slides"
+msgstr "Количество слайдов"
+
+#: inc/functions/customizer.php:149 inc/functions/customizer.php:185
+#, fuzzy
+msgid "Choose the number of slides you want to display"
+msgstr "Выберите количество слайдов, которые вы хотите отображать"
+
+#: inc/functions/customizer.php:164
+#, fuzzy
+msgid "Slider Content Meta"
+msgstr "Слайдер контента"
+
+#: inc/functions/customizer.php:167
+#, fuzzy
+msgid "Choose slider content meta display or not."
+msgstr "Выбор отображения содержимого мета ползунок или нет."
+
+#: inc/functions/customizer.php:182
+msgid "Slide Duration"
+msgstr "Задержка переключения слайда"
+
+#: inc/functions/customizer.php:196
+#, fuzzy
+msgid "Theme Colors Section"
+msgstr "Стиль и Цвета"
+
+#: inc/functions/customizer.php:197
+#, fuzzy
+msgid "Theme primary color"
+msgstr "Основной цвет верха"
+
+#: inc/functions/customizer.php:209
+msgid "Primary Color"
+msgstr "Основной цвет"
+
+#: inc/functions/customizer.php:216
+msgid "Typography"
+msgstr "оформление"
+
+#: inc/functions/customizer.php:228 inc/functions/customizer.php:234
+msgid "Google Font URL"
+msgstr "Google Font URL"
+
+#: inc/functions/customizer.php:232
+msgid "Insert"
+msgstr "вставить"
+
+#: inc/functions/customizer.php:235
+#, fuzzy
+msgid "for embed fonts."
+msgstr "для шрифтов."
+
+#: inc/functions/customizer.php:247
+msgid "Font Family"
+msgstr "Название шрифта (font-family)"
+
+#: inc/functions/customizer.php:250
+msgid "Insert Font Family."
+msgstr "Вставьте семейство шрифтов."
+
+#: inc/functions/customizer.php:261
+msgid "Font Size"
+msgstr "Размер шрифта"
+
+#: inc/functions/customizer.php:264
+msgid "Select Font Size."
+msgstr "Укажите размер шрифта."
+
+#: inc/functions/customizer.php:280
+msgid "Line Height"
+msgstr "высота строки"
+
+#: inc/functions/customizer.php:283
+#, fuzzy
+msgid "Slect Line Height."
+msgstr "Высота линии некоторых."
+
+#: inc/functions/customizer.php:298
+#, fuzzy
+msgid "Letter Space"
+msgstr "Письмо пространства"
+
+#: inc/functions/customizer.php:301
+#, fuzzy
+msgid "Select Letter Space."
+msgstr "Выберите письмо пространства."
+
+#: inc/functions/customizer.php:313
+msgid "Social Media Icons"
+msgstr "Иконки социальных сетей."
+
+#: inc/functions/customizer.php:325 inc/functions/widgets/social-icons.php:110
+msgid "Social Button Style"
+msgstr "Социальные кнопки стиль"
+
+#: inc/functions/customizer.php:329 inc/functions/customizer.php:543
+#: inc/functions/widgets/social-icons.php:113
+msgid "Default Color"
+msgstr "Цвет по умолчанию"
+
+#: inc/functions/customizer.php:330 inc/functions/customizer.php:544
+#: inc/functions/widgets/social-icons.php:114
+msgid "Theme Color"
+msgstr "Цвет Темы"
+
+#: inc/functions/customizer.php:331 inc/functions/customizer.php:545
+#: inc/functions/widgets/social-icons.php:115
+#, fuzzy
+msgid "Icon Original Color"
+msgstr "Исходный цвет"
+
+#: inc/functions/customizer.php:343
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/functions/customizer.php:355
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/functions/customizer.php:367
+msgid "Instagram"
+msgstr "Instagram"
+
+#: inc/functions/customizer.php:379
+msgid "Google+"
+msgstr "Google+"
+
+#: inc/functions/customizer.php:391
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: inc/functions/customizer.php:403
+msgid "YouTube"
+msgstr "YouTube"
+
+#: inc/functions/customizer.php:415
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: inc/functions/customizer.php:427
+msgid "Dribbble"
+msgstr "Dribbble"
+
+#: inc/functions/customizer.php:435
+msgid "Footer Section"
+msgstr "Нижний колонтитул (FOOTER)"
+
+#: inc/functions/customizer.php:436
+#, fuzzy
+msgid "Footer section content settings"
+msgstr "Настройки подвала"
+
+#: inc/functions/customizer.php:447
+msgid "Copyright Text"
+msgstr "Все права защищены Текст"
+
+#: inc/functions/customizer.php:454 inc/functions/customizer.php:466
+#, fuzzy
+msgid "About Theme"
+msgstr "Об этой темe"
+
+#: inc/functions/customizer.php:655
+msgid "Upgrade To Pro"
+msgstr "Обновитесь до PRO"
+
+#: inc/functions/customizer.php:658
+msgid "Documentation"
+msgstr "Документация"
+
+#: inc/functions/customizer.php:665
+msgid ""
+"The best way to contact us with <b>support questions</b> and <b>bug reports</"
+"b> is via"
+msgstr "Лучший способ связаться с нами за получением поддержки — через"
+
+#: inc/functions/customizer.php:667
+msgid "Writee support forum"
+msgstr "Форум поддержки writee"
+
+#: inc/functions/customizer.php:669
+msgid "If you like this theme, I'd appreciate any of the following:"
+msgstr ""
+"Если вам понравилась эта тема, я был бы очень признателен за любое из "
+"следующих действий:"
+
+#: inc/functions/customizer.php:672
+msgid "Rate this Theme"
+msgstr "Поставить оценку"
+
+#: inc/functions/featured-media.php:23
+#, php-format
+msgid "Permalink to: \"%s\""
+msgstr "Перейти по ссылке на статью: \"%s\""
+
+#: inc/functions/navigations.php:11
+msgid "Primary Menu"
+msgstr "Главное меню"
+
+#: inc/functions/sidebars.php:17
+msgid "Primary Sidebar"
+msgstr "Primary Sidebar"
+
+#: inc/functions/sidebars.php:19
+#, fuzzy
+msgid ""
+"Primary sidebar of the theme. Display on left or right side of the theme"
+msgstr "Основная боковой темы. Отображение на левой или правой стороне темы"
+
+#: inc/functions/sidebars.php:39
+msgid "Footer "
+msgstr "Футер"
+
+#: inc/functions/sidebars.php:41
+msgid "Footer bottom area vertical widgets."
+msgstr "Нижнего колонтитула внизу области вертикальные виджетов."
+
+#: inc/functions/theme-functions.php:253
+msgid "&larr; Previous"
+msgstr "&larr; Предыдущий"
+
+#: inc/functions/theme-functions.php:254
+msgid "Next &rarr;"
+msgstr "Следующий &rarr;"
+
+#: inc/functions/theme-functions.php:271
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: inc/functions/theme-functions.php:271
+msgid "(Edit)"
+msgstr "(ред)"
+
+#: inc/functions/theme-functions.php:283
+msgid "Post<br>Author"
+msgstr "Автор<br>Публикации"
+
+#: inc/functions/theme-functions.php:295
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s в %2$s"
+
+#: inc/functions/theme-functions.php:300
+msgid "<i class=\"icon-edit\"></i> Edit"
+msgstr ""
+
+#: inc/functions/theme-functions.php:306
+msgid "Your comment is awaiting moderation."
+msgstr "Ваш комментарий ожидает модерации."
+
+#: inc/functions/widgets/about-me.php:9
+msgid "WRITEE - About Me"
+msgstr "WRITEE - обо мне"
+
+#: inc/functions/widgets/about-me.php:10
+msgid "About me widget content."
+msgstr "Обо мне виджет содержание."
+
+#: inc/functions/widgets/about-me.php:61
+#: inc/functions/widgets/recent-posts.php:20
+#: inc/functions/widgets/recent-posts.php:72
+#: inc/functions/widgets/social-icons.php:104
+msgid "Title"
+msgstr "Тема"
+
+#: inc/functions/widgets/about-me.php:66
+msgid "Author Name"
+msgstr "Имя автора"
+
+#: inc/functions/widgets/about-me.php:72
+msgid "Author Image"
+msgstr "Фото Автора"
+
+#: inc/functions/widgets/about-me.php:77
+msgid "Description"
+msgstr "Описание"
+
+#: inc/functions/widgets/recent-posts.php:8
+msgid "WRITEE - Recent Posts"
+msgstr "WRITEE - последние сообщения"
+
+#: inc/functions/widgets/recent-posts.php:9
+msgid "The most recent posts on your blog."
+msgstr "Последние сообщения на вашем сайте"
+
+#: inc/functions/widgets/recent-posts.php:27
+msgid "Ignore sticky posts"
+msgstr "Игнорировать прикрепленные Записи"
+
+#: inc/functions/widgets/recent-posts.php:32
+msgid "Show up to"
+msgstr "Показать до"
+
+#: inc/functions/widgets/recent-posts.php:33
+msgid "posts"
+msgstr "записи"
+
+#: inc/functions/widgets/recent-posts.php:38
+msgid "Offset"
+msgstr "Смещение"
+
+#: inc/functions/widgets/recent-posts.php:41
+msgid "The number of posts to skip"
+msgstr "Количество пропущенных записей"
+
+#: inc/functions/widgets/recent-posts.php:46
+msgid "Post Status"
+msgstr "Статус поста"
+
+#: inc/functions/widgets/recent-posts.php:57
+msgid "Order"
+msgstr "Заказ"
+
+#: inc/functions/widgets/recent-posts.php:60
+msgid "Descending"
+msgstr "Нисходящий"
+
+#: inc/functions/widgets/recent-posts.php:61
+msgid "Ascending"
+msgstr "Восходящий"
+
+#: inc/functions/widgets/recent-posts.php:67
+msgid "Orderby"
+msgstr "Сортировать по:"
+
+#: inc/functions/widgets/recent-posts.php:70
+msgid "ID"
+msgstr "ID"
+
+#: inc/functions/widgets/recent-posts.php:71
+msgid "Author"
+msgstr "автор"
+
+#: inc/functions/widgets/recent-posts.php:73
+msgid "Date"
+msgstr "Дата"
+
+#: inc/functions/widgets/recent-posts.php:74
+msgid "Modified"
+msgstr "Модифицированный"
+
+#: inc/functions/widgets/recent-posts.php:75
+msgid "Random"
+msgstr "Случайный"
+
+#: inc/functions/widgets/recent-posts.php:76
+msgid "Comment Count"
+msgstr "Число комментариев"
+
+#: inc/functions/widgets/recent-posts.php:77
+msgid "Menu Order"
+msgstr "Порядок меню"
+
+#: inc/functions/widgets/recent-posts.php:84
+#, fuzzy
+msgid "Display post category(ies)"
+msgstr "Отображение почта категории(ям)"
+
+#: inc/functions/widgets/recent-posts.php:91
+#, fuzzy
+msgid "Display post author(s)"
+msgstr "Отображение почта автора(ов)"
+
+#: inc/functions/widgets/recent-posts.php:98
+msgid "Display Date"
+msgstr "Показать дату"
+
+#: inc/functions/widgets/recent-posts.php:177
+#: inc/theme/posts/post-related.php:29
+#, php-format
+msgid "Permalink to %s"
+msgstr "Постоянная ссылка на %s"
+
+#: inc/functions/widgets/recent-posts.php:184 inc/theme/sliders/slider.php:87
+#: inc/theme/views/content-post-header.php:54
+#: inc/theme/views/content-post-header.php:64
+#: inc/theme/views/content-post-header.php:76
+#: inc/theme/views/content-post-header.php:87
+msgid "By"
+msgstr "От"
+
+#: inc/functions/widgets/recent-posts.php:188
+#: inc/theme/views/content-post-header.php:55
+#: inc/theme/views/content-post-header.php:66
+#: inc/theme/views/content-post-header.php:78
+#: inc/theme/views/content-post-header.php:89
+msgid "on"
+msgstr "на"
+
+#: inc/functions/widgets/recent-posts.php:199
+msgid "No post found."
+msgstr "Записей пока нет"
+
+#: inc/functions/widgets/social-icons.php:9
+msgid "WRITEE - Social Media URL"
+msgstr "WRITEE - социальные медиа URL"
+
+#: inc/functions/widgets/social-icons.php:10
+#, fuzzy
+msgid "Social media URL widget."
+msgstr "Виджет Social Media Icon"
+
+#: inc/functions/widgets/social-icons.php:120
+msgid "Facebook URL"
+msgstr "Facebook URL"
+
+#: inc/functions/widgets/social-icons.php:124
+msgid "Twitter URL"
+msgstr "Twitter URL"
+
+#: inc/functions/widgets/social-icons.php:128
+msgid "Instagram URL"
+msgstr "Instagram URL"
+
+#: inc/functions/widgets/social-icons.php:133
+msgid "Linkedin URL"
+msgstr "LinkedIn страница"
+
+#: inc/functions/widgets/social-icons.php:139
+msgid "Google+ URL"
+msgstr "Google+ URL"
+
+#: inc/functions/widgets/social-icons.php:144
+msgid "YouTube URL"
+msgstr "YouTube Ссылка"
+
+#: inc/functions/widgets/social-icons.php:149
+msgid "Pinterest URL"
+msgstr "Ссылка на Pinterest"
+
+#: inc/functions/widgets/social-icons.php:154
+msgid "Dribble URL"
+msgstr "Dribble URL"
+
+#: inc/theme/footers/footer.php:36
+msgid "Theme by"
+msgstr "Автор темы"
+
+#: inc/theme/footers/footer.php:37
+msgid "http://www.scissorthemes.com/"
+msgstr "http://www.scissorthemes.com/"
+
+#: inc/theme/footers/footer.php:37 inc/theme/footers/footer.php:39
+#, php-format
+msgid " %s"
+msgstr "%s"
+
+#: inc/theme/footers/footer.php:38
+msgid "Proudly powered by"
+msgstr "Сайт работает на"
+
+#: inc/theme/footers/footer.php:39
+msgid "https://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: inc/theme/headers/header1.php:47
+msgid "HOME"
+msgstr "ГЛАВНАЯ"
+
+#: inc/theme/headers/header1.php:49
+msgid "ABOUT US"
+msgstr ""
+
+#: inc/theme/headers/header1.php:51
+msgid "PARENT PAGE"
+msgstr "Родительская страница"
+
+#: inc/theme/headers/header1.php:55
+msgid "SUB PAGE"
+msgstr "SUB PAGE"
+
+#: inc/theme/posts/post-related.php:20
+msgid "Related Posts"
+msgstr "Другие новости"
+
+#: inc/theme/views/content-none.php:11
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+#: inc/theme/views/content-none.php:17
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: inc/theme/views/content-none.php:20
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Извините, но ничего не соответствуют условиям поиска. Пожалуйста, "
+"попытайтесь снова с другими ключевыми словами."
+
+#: inc/theme/views/content-none.php:24
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr "К сожалению, мы не можем найти то, что вы ищите. Попробуйте по-другоу"
+
+#: inc/theme/views/content-post-footer.php:10
+msgid "Continue Reading"
+msgstr "Читать далее"
+
+#: inc/theme/views/content.php:41
+msgid "Previous Post"
+msgstr "Предыдущая новость"
+
+#: inc/theme/views/content.php:47
+msgid "Next Post"
+msgstr "Следующая новость"
+
+#: search.php:25
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Результаты поиска: %s"
+
+#: searchform.php:3
+msgid "Search for:"
+msgstr "Найти:"
+
+#: searchform.php:5
+msgid "Search..."
+msgstr "Поиск..."
+
+#: searchform.php:7
+msgid "Search"
+msgstr "Поиск"
+
+#: tag.php:25
+#, php-format
+msgid "Tag Archives: %s"
+msgstr "Метка архивов: %s"

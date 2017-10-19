@@ -1,0 +1,708 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Writee\n"
+"POT-Creation-Date: 2017-02-21 23:50+0530\n"
+"PO-Revision-Date: 2017-02-22 00:51+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: es\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:22
+msgid "Not Found"
+msgstr "No encontrado"
+
+#: 404.php:27
+msgid ""
+"The page you are looking for is no longer here, or never existed in the "
+"first place (bummer). You can try searching for what you are looking for "
+"using the form below. If that still doesn't provide the results you are "
+"looking for, you can always start over from the home page."
+msgstr ""
+
+#: archive.php:26
+#, php-format
+msgid "Daily Archives: <span>%s</span>"
+msgstr "Archivos diarios: <span>%s</span>"
+
+#: archive.php:28
+#, php-format
+msgid "Monthly Archives: <span>%s</span>"
+msgstr "Archivos mensuales: <span>%s</span>"
+
+#: archive.php:30
+#, php-format
+msgid "Yearly Archives: <span>%s</span>"
+msgstr "Archivos anuales: <span>%s</span>"
+
+#: archive.php:32
+msgid "Blog Archives"
+msgstr "Archivo del Blog"
+
+#: category.php:26 tag.php:27
+msgid "Feed Subscription"
+msgstr "Alimentación Suscripción"
+
+#: comments.php:12
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+"Este post está protegido con contraseña. Introduzca la contraseña para ver "
+"los comentarios."
+
+#: comments.php:18
+msgid "Comments"
+msgstr "Comentarios"
+
+#: comments.php:31
+msgid "&larr; Older Comments"
+msgstr "&larr; Comentarios anteriores"
+
+#: comments.php:32
+msgid "Newer Comments &rarr;"
+msgstr "Comentarios Nuevos &rarr;"
+
+#: comments.php:37
+msgid "Comments are closed."
+msgstr "Los comentarios están cerrados."
+
+#: comments.php:49
+msgid "Submit"
+msgstr "Enviar"
+
+#: inc/functions/back-compat.php:25 inc/functions/back-compat.php:35
+#: inc/functions/back-compat.php:48
+#, php-format
+msgid ""
+"Writee requires at least WordPress version 4.5. You are running version %s. "
+"Please upgrade and try again."
+msgstr ""
+"Writee requiere al menos la versión 4.5 de Wordpress. Estás usando la "
+"versión %s. Por favor actualiza e intenta de nuevo."
+
+#: inc/functions/customizer.php:17
+msgid "Writee Options"
+msgstr "Writee opciones"
+
+#: inc/functions/customizer.php:18
+msgid "Panel to update writee theme options"
+msgstr "Panel para actualizar opciones de theme writee"
+
+#: inc/functions/customizer.php:23
+msgid "Layout Options"
+msgstr "Opciones de diseño"
+
+#: inc/functions/customizer.php:35
+msgid "Website Layout Options"
+msgstr "Opciones de diseño de sitio web"
+
+#: inc/functions/customizer.php:38
+msgid "Choose between different layout options to be used as default"
+msgstr ""
+"Elige entre las opciones de Barra lateral a la Izquierda y Derecha para que "
+"sean usadas por defecto."
+
+#: inc/functions/customizer.php:40 inc/functions/customizer.php:530
+msgid "No Sidebar"
+msgstr "Sin Sidebar"
+
+#: inc/functions/customizer.php:41 inc/functions/customizer.php:531
+msgid "Left Sidebar"
+msgstr "Barra lateral Izquierda"
+
+#: inc/functions/customizer.php:42 inc/functions/customizer.php:532
+msgid "Right Sidebar"
+msgstr "Barra lateral Derecha"
+
+#: inc/functions/customizer.php:53
+msgid "Blog Excerpt"
+msgstr "Extracto del blog"
+
+#: inc/functions/customizer.php:56
+msgid "Turn ON to show auto Excerpt and OFF to show full posts."
+msgstr ""
+"Encender para mostrar automóviles extracto y OFF para mostrar los mensajes "
+"completos."
+
+#: inc/functions/customizer.php:58 inc/functions/customizer.php:84
+#: inc/functions/customizer.php:169 inc/functions/customizer.php:580
+msgid "ON"
+msgstr "Encendido"
+
+#: inc/functions/customizer.php:59 inc/functions/customizer.php:85
+#: inc/functions/customizer.php:170 inc/functions/customizer.php:581
+msgid "OFF"
+msgstr "Apagado"
+
+#: inc/functions/customizer.php:67
+msgid "Slider Options"
+msgstr "Opciones de Slider"
+
+#: inc/functions/customizer.php:79
+msgid "Display Slider"
+msgstr "Mostrar Diapositiva"
+
+#: inc/functions/customizer.php:97 inc/functions/customizer.php:115
+msgid "Slider Display Style"
+msgstr "Estilo de visualización de cursor"
+
+#: inc/functions/customizer.php:102 inc/functions/customizer.php:556
+msgid "Fluid Layout"
+msgstr "Diseño Fluido"
+
+#: inc/functions/customizer.php:103 inc/functions/customizer.php:557
+msgid "Non Fluid Layout"
+msgstr "Diseño Fluido"
+
+#: inc/functions/customizer.php:120 inc/functions/customizer.php:568
+msgid "Latest added posts"
+msgstr "Último añadidos mensajes"
+
+#: inc/functions/customizer.php:121 inc/functions/customizer.php:569
+msgid "Specific category"
+msgstr "Categoría específica"
+
+#: inc/functions/customizer.php:132
+msgid "Slider Post Categories"
+msgstr "Categorías de publicaciones"
+
+#: inc/functions/customizer.php:135
+msgid ""
+"Add post categories id comma separated (This option valid only for SPECIFIC "
+"CATEGORY view selection)."
+msgstr ""
+"Añadir post categorías id separados por comas (esta opción válida sólo para "
+"la selección de vista de categoría específica)."
+
+#: inc/functions/customizer.php:146
+msgid "Number of slides"
+msgstr "Númeor de slides"
+
+#: inc/functions/customizer.php:149 inc/functions/customizer.php:185
+msgid "Choose the number of slides you want to display"
+msgstr "Seleccione el número de diapositivas que desee mostrar"
+
+#: inc/functions/customizer.php:164
+msgid "Slider Content Meta"
+msgstr "Contenido del slider"
+
+#: inc/functions/customizer.php:167
+msgid "Choose slider content meta display or not."
+msgstr "Elija pantalla de meta content slider o no."
+
+#: inc/functions/customizer.php:182
+msgid "Slide Duration"
+msgstr "Duración de diapositiva"
+
+#: inc/functions/customizer.php:196
+msgid "Theme Colors Section"
+msgstr "Sección de colores de tema"
+
+#: inc/functions/customizer.php:197
+msgid "Theme primary color"
+msgstr "Color primario del tema"
+
+#: inc/functions/customizer.php:209
+msgid "Primary Color"
+msgstr "Color primario"
+
+#: inc/functions/customizer.php:216
+msgid "Typography"
+msgstr "Tipografía"
+
+#: inc/functions/customizer.php:228 inc/functions/customizer.php:234
+msgid "Google Font URL"
+msgstr "URL Fuente Google"
+
+#: inc/functions/customizer.php:232
+msgid "Insert"
+msgstr "Insertar"
+
+#: inc/functions/customizer.php:235
+msgid "for embed fonts."
+msgstr "para incrustar fuentes."
+
+#: inc/functions/customizer.php:247
+msgid "Font Family"
+msgstr "Familia de fuente"
+
+#: inc/functions/customizer.php:250
+msgid "Insert Font Family."
+msgstr "Inserte la familia de fuentes."
+
+#: inc/functions/customizer.php:261
+msgid "Font Size"
+msgstr "Tamaño de Fuente"
+
+#: inc/functions/customizer.php:264
+msgid "Select Font Size."
+msgstr "Seleccionar tamaño de fuente"
+
+#: inc/functions/customizer.php:280
+msgid "Line Height"
+msgstr "Altura de la línea"
+
+#: inc/functions/customizer.php:283
+msgid "Slect Line Height."
+msgstr "Altura de la línea slect."
+
+#: inc/functions/customizer.php:298
+msgid "Letter Space"
+msgstr "Carta a espacio"
+
+#: inc/functions/customizer.php:301
+msgid "Select Letter Space."
+msgstr "Seleccione el espacio de la letra."
+
+#: inc/functions/customizer.php:313
+msgid "Social Media Icons"
+msgstr "Iconos de redes sociales"
+
+#: inc/functions/customizer.php:325 inc/functions/widgets/social-icons.php:110
+msgid "Social Button Style"
+msgstr "Estilo del botón"
+
+#: inc/functions/customizer.php:329 inc/functions/customizer.php:543
+#: inc/functions/widgets/social-icons.php:113
+msgid "Default Color"
+msgstr "Color predeterminado"
+
+#: inc/functions/customizer.php:330 inc/functions/customizer.php:544
+#: inc/functions/widgets/social-icons.php:114
+msgid "Theme Color"
+msgstr "Color del tema"
+
+#: inc/functions/customizer.php:331 inc/functions/customizer.php:545
+#: inc/functions/widgets/social-icons.php:115
+msgid "Icon Original Color"
+msgstr "Icono Color Original"
+
+#: inc/functions/customizer.php:343
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/functions/customizer.php:355
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/functions/customizer.php:367
+msgid "Instagram"
+msgstr "Instagram"
+
+#: inc/functions/customizer.php:379
+msgid "Google+"
+msgstr "Google+"
+
+#: inc/functions/customizer.php:391
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: inc/functions/customizer.php:403
+msgid "YouTube"
+msgstr "YouTube"
+
+#: inc/functions/customizer.php:415
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: inc/functions/customizer.php:427
+msgid "Dribbble"
+msgstr "Dribbble"
+
+#: inc/functions/customizer.php:435
+msgid "Footer Section"
+msgstr "Sección del pie de página:"
+
+#: inc/functions/customizer.php:436
+msgid "Footer section content settings"
+msgstr "Configuración de contenido de sección de pie de página"
+
+#: inc/functions/customizer.php:447
+msgid "Copyright Text"
+msgstr "Texto de Copyright"
+
+#: inc/functions/customizer.php:454 inc/functions/customizer.php:466
+msgid "About Theme"
+msgstr "Acerca del Tema"
+
+#: inc/functions/customizer.php:655
+msgid "Upgrade To Pro"
+msgstr "Actualizar a Pro"
+
+#: inc/functions/customizer.php:658
+msgid "Documentation"
+msgstr "Documentación"
+
+#: inc/functions/customizer.php:665
+msgid ""
+"The best way to contact us with <b>support questions</b> and <b>bug reports</"
+"b> is via"
+msgstr ""
+"Es la mejor manera de contactarnos con <b>preguntas de apoyo</b> y "
+"<b>reportes de bugs</b> a través de"
+
+#: inc/functions/customizer.php:667
+msgid "Writee support forum"
+msgstr "Foro de soporte writee"
+
+#: inc/functions/customizer.php:669
+msgid "If you like this theme, I'd appreciate any of the following:"
+msgstr "Si te gusta este tema, le agradecería algo de lo siguiente:"
+
+#: inc/functions/customizer.php:672
+msgid "Rate this Theme"
+msgstr "Valora este tema"
+
+#: inc/functions/featured-media.php:23
+#, php-format
+msgid "Permalink to: \"%s\""
+msgstr "Enlace a: %s"
+
+#: inc/functions/navigations.php:11
+msgid "Primary Menu"
+msgstr "Menú Principal"
+
+#: inc/functions/sidebars.php:17
+msgid "Primary Sidebar"
+msgstr "Barra lateral primaria"
+
+#: inc/functions/sidebars.php:19
+msgid ""
+"Primary sidebar of the theme. Display on left or right side of the theme"
+msgstr ""
+"Sidebar principal del tema. Mostrar en el lado izquierdo o derecho del tema"
+
+#: inc/functions/sidebars.php:39
+msgid "Footer "
+msgstr "Pie de página"
+
+#: inc/functions/sidebars.php:41
+msgid "Footer bottom area vertical widgets."
+msgstr "Pie de página inferior zona vertical los widgets."
+
+#: inc/functions/theme-functions.php:253
+msgid "&larr; Previous"
+msgstr "&larr;  Anterior"
+
+#: inc/functions/theme-functions.php:254
+msgid "Next &rarr;"
+msgstr "Seguinte &rarr;"
+
+#: inc/functions/theme-functions.php:271
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: inc/functions/theme-functions.php:271
+msgid "(Edit)"
+msgstr "(Editar)"
+
+#: inc/functions/theme-functions.php:283
+msgid "Post<br>Author"
+msgstr "Autor de la<br>Entrada"
+
+#: inc/functions/theme-functions.php:295
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: inc/functions/theme-functions.php:300
+msgid "<i class=\"icon-edit\"></i> Edit"
+msgstr ""
+
+#: inc/functions/theme-functions.php:306
+msgid "Your comment is awaiting moderation."
+msgstr "O teu comentario está pendente de moderación."
+
+#: inc/functions/widgets/about-me.php:9
+msgid "WRITEE - About Me"
+msgstr "WRITEE - acerca de mí"
+
+#: inc/functions/widgets/about-me.php:10
+msgid "About me widget content."
+msgstr "Acerca de mi contenido widget."
+
+#: inc/functions/widgets/about-me.php:61
+#: inc/functions/widgets/recent-posts.php:20
+#: inc/functions/widgets/recent-posts.php:72
+#: inc/functions/widgets/social-icons.php:104
+msgid "Title"
+msgstr "Título"
+
+#: inc/functions/widgets/about-me.php:66
+msgid "Author Name"
+msgstr "Nombre del Autor"
+
+#: inc/functions/widgets/about-me.php:72
+msgid "Author Image"
+msgstr "Autor de la imagen"
+
+#: inc/functions/widgets/about-me.php:77
+msgid "Description"
+msgstr "Descripción"
+
+#: inc/functions/widgets/recent-posts.php:8
+msgid "WRITEE - Recent Posts"
+msgstr "WRITEE -Publicaciones Recientes"
+
+#: inc/functions/widgets/recent-posts.php:9
+msgid "The most recent posts on your blog."
+msgstr "Los posts más recientes en su web."
+
+#: inc/functions/widgets/recent-posts.php:27
+msgid "Ignore sticky posts"
+msgstr "Ignorar Publicaciones Sticky"
+
+#: inc/functions/widgets/recent-posts.php:32
+msgid "Show up to"
+msgstr "Mostrar hasta"
+
+#: inc/functions/widgets/recent-posts.php:33
+msgid "posts"
+msgstr "Publicaciones"
+
+#: inc/functions/widgets/recent-posts.php:38
+msgid "Offset"
+msgstr "Offset"
+
+#: inc/functions/widgets/recent-posts.php:41
+msgid "The number of posts to skip"
+msgstr "Número de entradas a saltar:"
+
+#: inc/functions/widgets/recent-posts.php:46
+msgid "Post Status"
+msgstr "Estado del post"
+
+#: inc/functions/widgets/recent-posts.php:57
+msgid "Order"
+msgstr "Pedido"
+
+#: inc/functions/widgets/recent-posts.php:60
+msgid "Descending"
+msgstr "Descendente"
+
+#: inc/functions/widgets/recent-posts.php:61
+msgid "Ascending"
+msgstr "Ascendente"
+
+#: inc/functions/widgets/recent-posts.php:67
+msgid "Orderby"
+msgstr "Ordenar por"
+
+#: inc/functions/widgets/recent-posts.php:70
+msgid "ID"
+msgstr "ID"
+
+#: inc/functions/widgets/recent-posts.php:71
+msgid "Author"
+msgstr "Autor"
+
+#: inc/functions/widgets/recent-posts.php:73
+msgid "Date"
+msgstr "Data"
+
+#: inc/functions/widgets/recent-posts.php:74
+msgid "Modified"
+msgstr "Modificado"
+
+#: inc/functions/widgets/recent-posts.php:75
+msgid "Random"
+msgstr "Aleatorio"
+
+#: inc/functions/widgets/recent-posts.php:76
+msgid "Comment Count"
+msgstr "Contador de Comentarios"
+
+#: inc/functions/widgets/recent-posts.php:77
+msgid "Menu Order"
+msgstr "Pedido del menu"
+
+#: inc/functions/widgets/recent-posts.php:84
+msgid "Display post category(ies)"
+msgstr "Categoría del artículo"
+
+#: inc/functions/widgets/recent-posts.php:91
+msgid "Display post author(s)"
+msgstr "Mostrar el autor"
+
+#: inc/functions/widgets/recent-posts.php:98
+msgid "Display Date"
+msgstr "¿Mostrar fecha?"
+
+#: inc/functions/widgets/recent-posts.php:177
+#: inc/theme/posts/post-related.php:29
+#, php-format
+msgid "Permalink to %s"
+msgstr "Enlace permanente a %s"
+
+#: inc/functions/widgets/recent-posts.php:184 inc/theme/sliders/slider.php:87
+#: inc/theme/views/content-post-header.php:54
+#: inc/theme/views/content-post-header.php:64
+#: inc/theme/views/content-post-header.php:76
+#: inc/theme/views/content-post-header.php:87
+msgid "By"
+msgstr "Por:"
+
+#: inc/functions/widgets/recent-posts.php:188
+#: inc/theme/views/content-post-header.php:55
+#: inc/theme/views/content-post-header.php:66
+#: inc/theme/views/content-post-header.php:78
+#: inc/theme/views/content-post-header.php:89
+msgid "on"
+msgstr "al"
+
+#: inc/functions/widgets/recent-posts.php:199
+msgid "No post found."
+msgstr "No hay artículos."
+
+#: inc/functions/widgets/social-icons.php:9
+msgid "WRITEE - Social Media URL"
+msgstr "WRITEE - medios sociales URL"
+
+#: inc/functions/widgets/social-icons.php:10
+msgid "Social media URL widget."
+msgstr "Widget de Redes Sociales"
+
+#: inc/functions/widgets/social-icons.php:120
+msgid "Facebook URL"
+msgstr "URL de Facebook"
+
+#: inc/functions/widgets/social-icons.php:124
+msgid "Twitter URL"
+msgstr "URL de Twitter"
+
+#: inc/functions/widgets/social-icons.php:128
+msgid "Instagram URL"
+msgstr "URL de Instagram"
+
+#: inc/functions/widgets/social-icons.php:133
+msgid "Linkedin URL"
+msgstr "URL de LinkedIn"
+
+#: inc/functions/widgets/social-icons.php:139
+msgid "Google+ URL"
+msgstr "URL de Google+"
+
+#: inc/functions/widgets/social-icons.php:144
+msgid "YouTube URL"
+msgstr "URL de YouTube"
+
+#: inc/functions/widgets/social-icons.php:149
+msgid "Pinterest URL"
+msgstr "URL de Pinterest"
+
+#: inc/functions/widgets/social-icons.php:154
+msgid "Dribble URL"
+msgstr "URL de Dribble"
+
+#: inc/theme/footers/footer.php:36
+msgid "Theme by"
+msgstr "Tema de"
+
+#: inc/theme/footers/footer.php:37
+msgid "http://www.scissorthemes.com/"
+msgstr "http://www.scissorthemes.com/"
+
+#: inc/theme/footers/footer.php:37 inc/theme/footers/footer.php:39
+#, php-format
+msgid " %s"
+msgstr "%s"
+
+#: inc/theme/footers/footer.php:38
+msgid "Proudly powered by"
+msgstr "Con la tecnología de"
+
+#: inc/theme/footers/footer.php:39
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+#: inc/theme/headers/header1.php:47
+msgid "HOME"
+msgstr "INICIO"
+
+#: inc/theme/headers/header1.php:49
+msgid "ABOUT US"
+msgstr "ACERCA DE NOSOTROS"
+
+#: inc/theme/headers/header1.php:51
+msgid "PARENT PAGE"
+msgstr "Página principal"
+
+#: inc/theme/headers/header1.php:55
+msgid "SUB PAGE"
+msgstr "SUB PÁGINA"
+
+#: inc/theme/posts/post-related.php:20
+msgid "Related Posts"
+msgstr "Artículos Relacionados"
+
+#: inc/theme/views/content-none.php:11
+msgid "Nothing Found"
+msgstr "Nada Encontrado"
+
+#: inc/theme/views/content-none.php:17
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"¿Listo para publicar tu primer post? <a href=\"%1$s\"> Comienza aquí</a>."
+
+#: inc/theme/views/content-none.php:20
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Lo sentimos, pero nada coincide con sus términos de búsqueda. Inténtelo de "
+"nuevo con algunas palabras clave diferentes."
+
+#: inc/theme/views/content-none.php:24
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Parece que no podemos encontrar lo que está buscando. Tal vez una búsqueda "
+"pueda ayudar."
+
+#: inc/theme/views/content-post-footer.php:10
+msgid "Continue Reading"
+msgstr "Continuar Leyendo"
+
+#: inc/theme/views/content.php:41
+msgid "Previous Post"
+msgstr "Entrada Anterior"
+
+#: inc/theme/views/content.php:47
+msgid "Next Post"
+msgstr "Entrada Siguiente"
+
+#: search.php:25
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Resultados para la búsqueda: %s"
+
+#: searchform.php:3
+msgid "Search for:"
+msgstr "Buscar:"
+
+#: searchform.php:5
+msgid "Search..."
+msgstr "Buscar..."
+
+#: searchform.php:7
+msgid "Search"
+msgstr "Buscar"
+
+#: tag.php:25
+#, php-format
+msgid "Tag Archives: %s"
+msgstr "Arquivos de etiqueta: %s"

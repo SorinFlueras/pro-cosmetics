@@ -1,0 +1,717 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Writee\n"
+"POT-Creation-Date: 2017-02-21 23:50+0530\n"
+"PO-Revision-Date: 2017-02-25 10:36+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: zh\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:22
+msgid "Not Found"
+msgstr "没有找到"
+
+#: 404.php:27
+msgid ""
+"The page you are looking for is no longer here, or never existed in the "
+"first place (bummer). You can try searching for what you are looking for "
+"using the form below. If that still doesn't provide the results you are "
+"looking for, you can always start over from the home page."
+msgstr ""
+"您瀏覽的頁面已經不在這了，或是從一開始就不存在（太慘惹）。您可以試著用下面的"
+"搜尋功能來試著找找您在找的東西。如果您還是沒有找到您所需要的內容，歡迎您再次"
+"從我們的首頁開始重新參觀整個網站。"
+
+#: archive.php:26
+#, php-format
+msgid "Daily Archives: <span>%s</span>"
+msgstr "每日档案：<span>%s</span>"
+
+#: archive.php:28
+#, php-format
+msgid "Monthly Archives: <span>%s</span>"
+msgstr "每月档案: <span>%s</span>"
+
+#: archive.php:30
+#, php-format
+msgid "Yearly Archives: <span>%s</span>"
+msgstr "年度档案：<span>%s</span>"
+
+#: archive.php:32
+msgid "Blog Archives"
+msgstr "博客"
+
+#: category.php:26 tag.php:27
+msgid "Feed Subscription"
+msgstr "订阅"
+
+#: comments.php:12
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr "这篇文章有密码保护。输入密码浏览评论。"
+
+#: comments.php:18
+msgid "Comments"
+msgstr "评论"
+
+#: comments.php:31
+msgid "&larr; Older Comments"
+msgstr "&larr; 较早的评论"
+
+#: comments.php:32
+msgid "Newer Comments &rarr;"
+msgstr "较新的评论 &rarr;"
+
+#: comments.php:37
+msgid "Comments are closed."
+msgstr "评论已关闭"
+
+#: comments.php:49
+msgid "Submit"
+msgstr "提交"
+
+#: inc/functions/back-compat.php:25 inc/functions/back-compat.php:35
+#: inc/functions/back-compat.php:48
+#, fuzzy, php-format
+msgid ""
+"Writee requires at least WordPress version 4.5. You are running version %s. "
+"Please upgrade and try again."
+msgstr "需要版本至少最低版本4.0"
+
+#: inc/functions/customizer.php:17
+msgid "Writee Options"
+msgstr ""
+
+#: inc/functions/customizer.php:18
+#, fuzzy
+msgid "Panel to update writee theme options"
+msgstr "面板更新 writee 主题选项"
+
+#: inc/functions/customizer.php:23
+msgid "Layout Options"
+msgstr "布局选项"
+
+#: inc/functions/customizer.php:35
+msgid "Website Layout Options"
+msgstr ""
+
+#: inc/functions/customizer.php:38
+msgid "Choose between different layout options to be used as default"
+msgstr "从不同的布局选项中选择一个作为默认布局"
+
+#: inc/functions/customizer.php:40 inc/functions/customizer.php:530
+msgid "No Sidebar"
+msgstr "无侧边栏"
+
+#: inc/functions/customizer.php:41 inc/functions/customizer.php:531
+msgid "Left Sidebar"
+msgstr "左侧栏"
+
+#: inc/functions/customizer.php:42 inc/functions/customizer.php:532
+msgid "Right Sidebar"
+msgstr "右边栏"
+
+#: inc/functions/customizer.php:53
+msgid "Blog Excerpt"
+msgstr "博客摘要"
+
+#: inc/functions/customizer.php:56
+#, fuzzy
+msgid "Turn ON to show auto Excerpt and OFF to show full posts."
+msgstr "接通显示自动摘录并关闭显示整篇文章。"
+
+#: inc/functions/customizer.php:58 inc/functions/customizer.php:84
+#: inc/functions/customizer.php:169 inc/functions/customizer.php:580
+msgid "ON"
+msgstr "开启"
+
+#: inc/functions/customizer.php:59 inc/functions/customizer.php:85
+#: inc/functions/customizer.php:170 inc/functions/customizer.php:581
+msgid "OFF"
+msgstr "关闭"
+
+#: inc/functions/customizer.php:67
+msgid "Slider Options"
+msgstr "滑块选项"
+
+#: inc/functions/customizer.php:79
+msgid "Display Slider"
+msgstr "在“特色”滑块下方显示Spotlight滑块区域"
+
+#: inc/functions/customizer.php:97 inc/functions/customizer.php:115
+#, fuzzy
+msgid "Slider Display Style"
+msgstr "滑块显示样式"
+
+#: inc/functions/customizer.php:102 inc/functions/customizer.php:556
+msgid "Fluid Layout"
+msgstr "流式布局"
+
+#: inc/functions/customizer.php:103 inc/functions/customizer.php:557
+#, fuzzy
+msgid "Non Fluid Layout"
+msgstr "流式布局"
+
+#: inc/functions/customizer.php:120 inc/functions/customizer.php:568
+#, fuzzy
+msgid "Latest added posts"
+msgstr "最新添加"
+
+#: inc/functions/customizer.php:121 inc/functions/customizer.php:569
+msgid "Specific category"
+msgstr "特定分类"
+
+#: inc/functions/customizer.php:132
+#, fuzzy
+msgid "Slider Post Categories"
+msgstr "帖子类别"
+
+#: inc/functions/customizer.php:135
+#, fuzzy
+msgid ""
+"Add post categories id comma separated (This option valid only for SPECIFIC "
+"CATEGORY view selection)."
+msgstr "后添加类别 id 以逗号分隔 （此选项仅对特定类别视图选择有效）。"
+
+#: inc/functions/customizer.php:146
+msgid "Number of slides"
+msgstr "幻灯片数"
+
+#: inc/functions/customizer.php:149 inc/functions/customizer.php:185
+#, fuzzy
+msgid "Choose the number of slides you want to display"
+msgstr "显示的幻灯片数"
+
+#: inc/functions/customizer.php:164
+#, fuzzy
+msgid "Slider Content Meta"
+msgstr "滑块内容"
+
+#: inc/functions/customizer.php:167
+#, fuzzy
+msgid "Choose slider content meta display or not."
+msgstr "或不选择滑块内容元显示。"
+
+#: inc/functions/customizer.php:182
+msgid "Slide Duration"
+msgstr "旋转前幻灯片显示的秒数"
+
+#: inc/functions/customizer.php:196
+#, fuzzy
+msgid "Theme Colors Section"
+msgstr "主题颜色节"
+
+#: inc/functions/customizer.php:197
+msgid "Theme primary color"
+msgstr "主题主颜色"
+
+#: inc/functions/customizer.php:209
+msgid "Primary Color"
+msgstr "原色"
+
+#: inc/functions/customizer.php:216
+msgid "Typography"
+msgstr "排版"
+
+#: inc/functions/customizer.php:228 inc/functions/customizer.php:234
+#, fuzzy
+msgid "Google Font URL"
+msgstr "谷歌字体"
+
+#: inc/functions/customizer.php:232
+msgid "Insert"
+msgstr "插入"
+
+#: inc/functions/customizer.php:235
+msgid "for embed fonts."
+msgstr "嵌入字体"
+
+#: inc/functions/customizer.php:247
+msgid "Font Family"
+msgstr "字体列表"
+
+#: inc/functions/customizer.php:250
+#, fuzzy
+msgid "Insert Font Family."
+msgstr "插入字体系列。"
+
+#: inc/functions/customizer.php:261
+msgid "Font Size"
+msgstr "字体大小"
+
+#: inc/functions/customizer.php:264
+msgid "Select Font Size."
+msgstr "選擇字體大小"
+
+#: inc/functions/customizer.php:280
+msgid "Line Height"
+msgstr "行高"
+
+#: inc/functions/customizer.php:283
+msgid "Slect Line Height."
+msgstr "看中行高。"
+
+#: inc/functions/customizer.php:298
+msgid "Letter Space"
+msgstr "正文间距"
+
+#: inc/functions/customizer.php:301
+msgid "Select Letter Space."
+msgstr ""
+
+#: inc/functions/customizer.php:313
+msgid "Social Media Icons"
+msgstr "社交媒体图标"
+
+#: inc/functions/customizer.php:325 inc/functions/widgets/social-icons.php:110
+#, fuzzy
+msgid "Social Button Style"
+msgstr "社会按钮样式"
+
+#: inc/functions/customizer.php:329 inc/functions/customizer.php:543
+#: inc/functions/widgets/social-icons.php:113
+msgid "Default Color"
+msgstr "默认颜色"
+
+#: inc/functions/customizer.php:330 inc/functions/customizer.php:544
+#: inc/functions/widgets/social-icons.php:114
+msgid "Theme Color"
+msgstr "主题颜色"
+
+#: inc/functions/customizer.php:331 inc/functions/customizer.php:545
+#: inc/functions/widgets/social-icons.php:115
+msgid "Icon Original Color"
+msgstr "图标的原始颜色"
+
+#: inc/functions/customizer.php:343
+msgid "Facebook"
+msgstr ""
+
+#: inc/functions/customizer.php:355
+msgid "Twitter"
+msgstr ""
+
+#: inc/functions/customizer.php:367
+msgid "Instagram"
+msgstr ""
+
+#: inc/functions/customizer.php:379
+msgid "Google+"
+msgstr ""
+
+#: inc/functions/customizer.php:391
+msgid "LinkedIn"
+msgstr ""
+
+#: inc/functions/customizer.php:403
+msgid "YouTube"
+msgstr ""
+
+#: inc/functions/customizer.php:415
+msgid "Pinterest"
+msgstr ""
+
+#: inc/functions/customizer.php:427
+msgid "Dribbble"
+msgstr ""
+
+#: inc/functions/customizer.php:435
+msgid "Footer Section"
+msgstr "页角"
+
+#: inc/functions/customizer.php:436
+#, fuzzy
+msgid "Footer section content settings"
+msgstr "页脚部分内容设置"
+
+#: inc/functions/customizer.php:447
+msgid "Copyright Text"
+msgstr "版权文本"
+
+#: inc/functions/customizer.php:454 inc/functions/customizer.php:466
+#, fuzzy
+msgid "About Theme"
+msgstr "关于主题"
+
+#: inc/functions/customizer.php:655
+msgid "Upgrade To Pro"
+msgstr "升级到专业版"
+
+#: inc/functions/customizer.php:658
+msgid "Documentation"
+msgstr "文档"
+
+#: inc/functions/customizer.php:665
+msgid ""
+"The best way to contact us with <b>support questions</b> and <b>bug reports</"
+"b> is via"
+msgstr ""
+
+#: inc/functions/customizer.php:667
+msgid "Writee support forum"
+msgstr ""
+
+#: inc/functions/customizer.php:669
+msgid "If you like this theme, I'd appreciate any of the following:"
+msgstr ""
+
+#: inc/functions/customizer.php:672
+msgid "Rate this Theme"
+msgstr "评价这个主题"
+
+#: inc/functions/featured-media.php:23
+#, php-format
+msgid "Permalink to: \"%s\""
+msgstr ""
+
+#: inc/functions/navigations.php:11
+msgid "Primary Menu"
+msgstr "主菜单"
+
+#: inc/functions/sidebars.php:17
+msgid "Primary Sidebar"
+msgstr "主侧边栏"
+
+#: inc/functions/sidebars.php:19
+#, fuzzy
+msgid ""
+"Primary sidebar of the theme. Display on left or right side of the theme"
+msgstr "初级侧边栏的主题。在左侧或右侧的主题上显示"
+
+#: inc/functions/sidebars.php:39
+msgid "Footer "
+msgstr "页脚"
+
+#: inc/functions/sidebars.php:41
+msgid "Footer bottom area vertical widgets."
+msgstr ""
+
+#: inc/functions/theme-functions.php:253
+msgid "&larr; Previous"
+msgstr "&larr; 上一个"
+
+#: inc/functions/theme-functions.php:254
+msgid "Next &rarr;"
+msgstr "下一个 &rarr;"
+
+#: inc/functions/theme-functions.php:271
+msgid "Pingback:"
+msgstr "Pingback："
+
+#: inc/functions/theme-functions.php:271
+msgid "(Edit)"
+msgstr "(编辑)"
+
+#: inc/functions/theme-functions.php:283
+msgid "Post<br>Author"
+msgstr "發文<br>作者"
+
+#: inc/functions/theme-functions.php:295
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: inc/functions/theme-functions.php:300
+msgid "<i class=\"icon-edit\"></i> Edit"
+msgstr ""
+
+#: inc/functions/theme-functions.php:306
+msgid "Your comment is awaiting moderation."
+msgstr "您的评论正在等待审核."
+
+#: inc/functions/widgets/about-me.php:9
+msgid "WRITEE - About Me"
+msgstr ""
+
+#: inc/functions/widgets/about-me.php:10
+#, fuzzy
+msgid "About me widget content."
+msgstr "关于我的小部件的内容。"
+
+#: inc/functions/widgets/about-me.php:61
+#: inc/functions/widgets/recent-posts.php:20
+#: inc/functions/widgets/recent-posts.php:72
+#: inc/functions/widgets/social-icons.php:104
+msgid "Title"
+msgstr "标题"
+
+#: inc/functions/widgets/about-me.php:66
+msgid "Author Name"
+msgstr "作者名称"
+
+#: inc/functions/widgets/about-me.php:72
+msgid "Author Image"
+msgstr "作者图像"
+
+#: inc/functions/widgets/about-me.php:77
+msgid "Description"
+msgstr "描述"
+
+#: inc/functions/widgets/recent-posts.php:8
+#, fuzzy
+msgid "WRITEE - Recent Posts"
+msgstr "WRITEE-最近的帖子"
+
+#: inc/functions/widgets/recent-posts.php:9
+#, fuzzy
+msgid "The most recent posts on your blog."
+msgstr "站点上的最新文章"
+
+#: inc/functions/widgets/recent-posts.php:27
+msgid "Ignore sticky posts"
+msgstr "忽略置顶文章"
+
+#: inc/functions/widgets/recent-posts.php:32
+msgid "Show up to"
+msgstr "显示文章数量"
+
+#: inc/functions/widgets/recent-posts.php:33
+msgid "posts"
+msgstr "文章"
+
+#: inc/functions/widgets/recent-posts.php:38
+msgid "Offset"
+msgstr "偏移"
+
+#: inc/functions/widgets/recent-posts.php:41
+msgid "The number of posts to skip"
+msgstr "忽略的文章数"
+
+#: inc/functions/widgets/recent-posts.php:46
+msgid "Post Status"
+msgstr "根据文章状态"
+
+#: inc/functions/widgets/recent-posts.php:57
+msgid "Order"
+msgstr "订单"
+
+#: inc/functions/widgets/recent-posts.php:60
+msgid "Descending"
+msgstr "降序"
+
+#: inc/functions/widgets/recent-posts.php:61
+msgid "Ascending"
+msgstr "升序"
+
+#: inc/functions/widgets/recent-posts.php:67
+msgid "Orderby"
+msgstr "排序"
+
+#: inc/functions/widgets/recent-posts.php:70
+msgid "ID"
+msgstr "ID"
+
+#: inc/functions/widgets/recent-posts.php:71
+msgid "Author"
+msgstr "作者"
+
+#: inc/functions/widgets/recent-posts.php:73
+msgid "Date"
+msgstr "日期"
+
+#: inc/functions/widgets/recent-posts.php:74
+msgid "Modified"
+msgstr "已修改"
+
+#: inc/functions/widgets/recent-posts.php:75
+msgid "Random"
+msgstr "随机"
+
+#: inc/functions/widgets/recent-posts.php:76
+msgid "Comment Count"
+msgstr "评论数"
+
+#: inc/functions/widgets/recent-posts.php:77
+msgid "Menu Order"
+msgstr "菜单顺序"
+
+#: inc/functions/widgets/recent-posts.php:84
+#, fuzzy
+msgid "Display post category(ies)"
+msgstr "显示文章类别"
+
+#: inc/functions/widgets/recent-posts.php:91
+#, fuzzy
+msgid "Display post author(s)"
+msgstr "显示文章作者"
+
+#: inc/functions/widgets/recent-posts.php:98
+msgid "Display Date"
+msgstr "显示日期"
+
+#: inc/functions/widgets/recent-posts.php:177
+#: inc/theme/posts/post-related.php:29
+#, php-format
+msgid "Permalink to %s"
+msgstr "永久连结%s"
+
+#: inc/functions/widgets/recent-posts.php:184 inc/theme/sliders/slider.php:87
+#: inc/theme/views/content-post-header.php:54
+#: inc/theme/views/content-post-header.php:64
+#: inc/theme/views/content-post-header.php:76
+#: inc/theme/views/content-post-header.php:87
+msgid "By"
+msgstr "作者"
+
+#: inc/functions/widgets/recent-posts.php:188
+#: inc/theme/views/content-post-header.php:55
+#: inc/theme/views/content-post-header.php:66
+#: inc/theme/views/content-post-header.php:78
+#: inc/theme/views/content-post-header.php:89
+msgid "on"
+msgstr "打开"
+
+#: inc/functions/widgets/recent-posts.php:199
+msgid "No post found."
+msgstr "未找到任何帖子。"
+
+#: inc/functions/widgets/social-icons.php:9
+#, fuzzy
+msgid "WRITEE - Social Media URL"
+msgstr "WRITEE-社交媒体 URL"
+
+#: inc/functions/widgets/social-icons.php:10
+#, fuzzy
+msgid "Social media URL widget."
+msgstr "媒体插件"
+
+#: inc/functions/widgets/social-icons.php:120
+msgid "Facebook URL"
+msgstr ""
+
+#: inc/functions/widgets/social-icons.php:124
+msgid "Twitter URL"
+msgstr ""
+
+#: inc/functions/widgets/social-icons.php:128
+msgid "Instagram URL"
+msgstr ""
+
+#: inc/functions/widgets/social-icons.php:133
+msgid "Linkedin URL"
+msgstr ""
+
+#: inc/functions/widgets/social-icons.php:139
+msgid "Google+ URL"
+msgstr ""
+
+#: inc/functions/widgets/social-icons.php:144
+msgid "YouTube URL"
+msgstr ""
+
+#: inc/functions/widgets/social-icons.php:149
+msgid "Pinterest URL"
+msgstr ""
+
+#: inc/functions/widgets/social-icons.php:154
+msgid "Dribble URL"
+msgstr ""
+
+#: inc/theme/footers/footer.php:36
+msgid "Theme by"
+msgstr "主题由"
+
+#: inc/theme/footers/footer.php:37
+msgid "http://www.scissorthemes.com/"
+msgstr "http://www.scissorthemes.com/"
+
+#: inc/theme/footers/footer.php:37 inc/theme/footers/footer.php:39
+#, php-format
+msgid " %s"
+msgstr ""
+
+#: inc/theme/footers/footer.php:38
+msgid "Proudly powered by"
+msgstr "自豪地采用"
+
+#: inc/theme/footers/footer.php:39
+msgid "https://wordpress.org/"
+msgstr ""
+
+#: inc/theme/headers/header1.php:47
+msgid "HOME"
+msgstr "首页"
+
+#: inc/theme/headers/header1.php:49
+msgid "ABOUT US"
+msgstr "关于我们"
+
+#: inc/theme/headers/header1.php:51
+msgid "PARENT PAGE"
+msgstr "父页："
+
+#: inc/theme/headers/header1.php:55
+msgid "SUB PAGE"
+msgstr "子页面"
+
+#: inc/theme/posts/post-related.php:20
+msgid "Related Posts"
+msgstr "相关文章"
+
+#: inc/theme/views/content-none.php:11
+msgid "Nothing Found"
+msgstr "什么都没找到"
+
+#: inc/theme/views/content-none.php:17
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "准备好发布您的第一篇文章吗? <a href=“%1$s”>单击此处开始</a>."
+
+#: inc/theme/views/content-none.php:20
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr "抱歉！未匹配到您搜索的关键字，请再试试其它关键字。"
+
+#: inc/theme/views/content-none.php:24
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr "似乎没有发现您寻找的内容，或许可以试试搜索"
+
+#: inc/theme/views/content-post-footer.php:10
+msgid "Continue Reading"
+msgstr "继续阅读"
+
+#: inc/theme/views/content.php:41
+msgid "Previous Post"
+msgstr "以前的文章"
+
+#: inc/theme/views/content.php:47
+msgid "Next Post"
+msgstr "下一篇文章"
+
+#: search.php:25
+#, php-format
+msgid "Search Results for: %s"
+msgstr "搜索“%s”的结果："
+
+#: searchform.php:3
+msgid "Search for:"
+msgstr "搜索结果："
+
+#: searchform.php:5
+msgid "Search..."
+msgstr "搜索..."
+
+#: searchform.php:7
+msgid "Search"
+msgstr "搜索"
+
+#: tag.php:25
+#, php-format
+msgid "Tag Archives: %s"
+msgstr "标签：%s"

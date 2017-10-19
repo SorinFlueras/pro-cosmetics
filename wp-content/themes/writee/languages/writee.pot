@@ -1,0 +1,1191 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Writty Options"
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Writty Theme Options"
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Apple Icon"
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Apple iPad Icon"
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Apple iPhone Icon"
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Favicon"
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Logo Image"
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Retina Ready Logo"
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Add your Google Analytics or other tracking code here. This code will be added before the &lt/body&gt tag."
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Archive Layout"
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Autoplay"
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Background Pattern"
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Background Style"
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Behance"
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Blog Excerpt"
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Blog Excerpt Length"
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Blog Layout"
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Body"
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Body Background"
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Body background with image, color, etc."
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Buffer"
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Check if you want enable breadcrumbs"
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Check if you want to display category description."
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Check if you want to display post social share buttons."
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Check if you want to enable auto excerpt for blog."
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Check if you want to enable auto excerpt for search results."
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Check if you want to enable autoplay for slider."
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Check if you want to enable category page RSS link."
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Check if you want to enable dots navigation for slider."
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Check if you want to enable featured image for pages."
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Check if you want to enable footer bottom."
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Check if you want to enable header search."
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Check if you want to enable homepage slider."
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Check if you want to enable infinity loop for slider."
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Check if you want to enable next/prev navigation for slider."
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Check if you want to enable next/previous navigation for single posts."
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Check if you want to enable page comments."
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Check if you want to enable page header."
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Check if you want to enable page meta."
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Check if you want to enable pause on hover for slider."
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Check if you want to enable post categories for single posts."
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Check if you want to enable post featured content for search results."
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Check if you want to enable post featured content for single posts."
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Check if you want to enable post header for blog."
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Check if you want to enable post header for search results."
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Check if you want to enable post header for single posts."
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Check if you want to enable post loop last widget area."
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Check if you want to enable post loop middle widget area."
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Check if you want to enable post meta for blog."
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Check if you want to enable post meta for search result."
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Check if you want to enable post meta for search results."
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Check if you want to enable post meta for single posts."
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Check if you want to enable post meta link for single posts."
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Check if you want to enable post share links."
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Check if you want to enable post tags for single posts."
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Check if you want to enable read more button for blog."
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Check if you want to enable read more button for search results."
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Check if you want to enable related posts for single posts."
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Check if you want to enable sticky header."
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Check if you want to enable tags page RSS link."
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Check if you want to enable top header bar. "
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Check if you want to enable top header navigations."
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Check if you want to enable top header search."
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Check if you want to enable top header social buttons."
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Check if you want to sticky sidebar."
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Check which meta link show for pages."
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Choose body background pattern, if background image choose than pattern will hide."
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Choose body background, if background image choose than pattern will hide ."
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Choose logo background."
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Choose slider content meta display or not."
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Choose slider content type, latest added posts or choose custom option to display post in slider."
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Choose slider content type."
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Choose the number of posts you want to show in slider."
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Choose the number of posts your want to show in related posts."
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Choose the number of slide display you want to show in slider."
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Choose what you like to display top bar left area."
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Choose what you like to display top bar right area."
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Choose which post meta values, you want to show in list. It will effective if post meta enabled."
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Content Background Style"
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Controls the durations of slide."
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Copyright Content"
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Custom CSS Code"
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Custom JS & CSS"
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Custom Javascript Code"
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Date Format"
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Display Slider"
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Dots Navigation"
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Dribbble"
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Enable Breadcrumbs"
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Enable page load progress bar while page loading"
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Enable page scroll bottom to top."
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Enable right to left content."
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Enable section"
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Enter your custom copyright content."
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Facebook"
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Flickr"
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Footer Bottom"
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Footer Bottom Background Style"
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Footer Horizontal Widget Section"
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Footer Layout"
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Footer Middle Background Style"
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Footer Settings"
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Footer Top Background Style"
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Footer Vertical Widget Section"
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "General Settings"
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Google+"
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Header Bottom Background Style"
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Header Layout"
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Header Middle Background Style"
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Header Search"
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Header Settings"
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Header Top Background Style"
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Heading"
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "If Retina logo uploaded, please enter the height of the Standard logo not the Retina logo."
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "If Retina logo uploaded, please enter the width of the Standard logo not the Retina logo."
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Import Export"
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Infinity Loop"
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Insert your custom link to show the Behance icon. Leave blank to hide icon."
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Insert your custom link to show the Buffer icon. Leave blank to hide icon."
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Insert your custom link to show the Dribbble icon. Leave blank to hide icon."
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Insert your custom link to show the Facebook icon. Leave blank to hide icon."
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Insert your custom link to show the Flickr icon. Leave blank to hide icon."
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Insert your custom link to show the Google+ icon. Leave blank to hide icon."
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Insert your custom link to show the Instagram icon. Leave blank to hide icon."
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Insert your custom link to show the LinkedIn icon. Leave blank to hide icon."
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Insert your custom link to show the Pinterest icon. Leave blank to hide icon."
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Insert your custom link to show the RSS icon. Leave blank to hide icon."
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Insert your custom link to show the Skype icon. Leave blank to hide icon."
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Insert your custom link to show the Tumblr icon. Leave blank to hide icon."
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Insert your custom link to show the Twitter icon. Leave blank to hide icon."
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Insert your custom link to show the Vimeo icon. Leave blank to hide icon."
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Insert your custom link to show the YouTube icon. Leave blank to hide icon."
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Instagram"
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Layout Settings"
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "LinkedIn"
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Logo & Favicon"
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Logo Background"
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Logo Bottom Margin"
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Logo Top Margin"
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Logo background with image, color, etc."
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Next/Previous Navigation"
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Next/Previous Posts Links"
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Number of posts"
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Number of related posts"
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Page Comments Section"
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Page Featured Image"
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Page Header"
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Page Load Progress Bar"
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Page Meta"
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Page Meta Links"
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Page Options"
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Paste your CSS code here."
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Paste your Javascript code here."
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Pause On Hover"
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Pick a primary color for the theme text and theme elements."
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Pinterest"
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Please specify bottom margin for your header logo."
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Please specify top margin for your header logo."
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Post Author Info"
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Post Categories"
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Post Featured Content"
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Post Header"
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Post Loop Last Widget Area"
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Post Loop Middle Widget Area"
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Post Meta"
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Post Meta Link"
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Post Meta Links"
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Post Share Buttons"
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Post Tags"
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Post date custom format."
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Primary Color"
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "RSS"
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Read More Button"
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Related Post"
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Right To Left"
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Scroll Bottom To Top"
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Search Results Excerpt"
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Search Results Excerpt Length"
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Search Results Featured Image"
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Search Results Post Header"
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Search Results Post Meta"
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Search Results Post Meta Link"
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Search Settings"
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Select sidebar position for blog."
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Select sidebar position for search pages."
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Select sidebar position for single posts."
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Select the layout for the assigned blog page in settings>reading."
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Select the layout for the blog archive/category pages."
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Select the layout for the search pages."
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Select widget layout for footer widgets."
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Select your background style."
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Select your blog layout style."
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Select your header layout style."
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Set a 114x114 image for your iPhone Retina"
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Set a 144x144 image for your iPad icon"
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Set a 16x16 image for your favicon"
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Set a 57x57 image for Iphone"
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Set a 72x72 image for iPad"
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Set an image file for your logo"
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Show Tag RSS link"
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Show category Description"
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Show category RSS link"
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Show post sharing buttons"
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Sidebar Position"
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Sidebar Sticky"
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Single Post Options"
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Site Layout"
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Site Sidebar Position"
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Skype"
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Slide Duration"
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Slide display at time"
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Slider Content"
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Slider Content Meta"
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Slider Settings"
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Social Buttons"
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Specify the body font properties."
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Specify the excerpt length for blog."
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Specify the excerpt length for search results."
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Specify the heading font properties."
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Standard Logo Height"
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Standard Logo Width"
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Sticky Header"
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Styling Options"
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Top Bar"
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Top Bar Left"
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Top Bar Right"
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Top Bar Settings"
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Top Navigation"
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Top Search"
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Tracking Script Code"
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Tumblr"
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Twitter"
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Typography Settings"
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Value is in ms."
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "Vimeo"
+msgstr ""
+
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "YouTube"
+msgstr ""
+
+#. /inc/lib/redux-framework/
+#: config.php:1
+msgid "body background pattern, color, etc."
+msgstr ""

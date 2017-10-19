@@ -1,0 +1,737 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Writee\n"
+"POT-Creation-Date: 2017-02-21 23:50+0530\n"
+"PO-Revision-Date: 2017-02-25 11:54+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"Language: ar\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:22
+msgid "Not Found"
+msgstr "به‌رده‌ست نیه‌"
+
+#: 404.php:27
+msgid ""
+"The page you are looking for is no longer here, or never existed in the "
+"first place (bummer). You can try searching for what you are looking for "
+"using the form below. If that still doesn't provide the results you are "
+"looking for, you can always start over from the home page."
+msgstr ""
+"الصفحة التى تبحث عنها غير موجودة، أو تم ازالتها. يمكنك محاولة البحث عن ما "
+"كنت تبحث عنه باستخدام نموذج البحث التالي.أو ابدأ من الصفحة الرئيسية."
+
+#: archive.php:26
+#, php-format
+msgid "Daily Archives: <span>%s</span>"
+msgstr "الارشيفات اليومية: <span>%s</span>"
+
+#: archive.php:28
+#, php-format
+msgid "Monthly Archives: <span>%s</span>"
+msgstr "ئايلىق ئارخىىپ: <span>%s</span>"
+
+#: archive.php:30
+#, php-format
+msgid "Yearly Archives: <span>%s</span>"
+msgstr "يىللىق ئارخىپ: <span>%s</span>"
+
+#: archive.php:32
+msgid "Blog Archives"
+msgstr "أرشيف المدونة"
+
+#: category.php:26 tag.php:27
+msgid "Feed Subscription"
+msgstr "تغذية الاشتراك"
+
+#: comments.php:12
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr "هذه التدوينة محمية بكلمة مرور. أدخل كلمة المرور لمشاهدة أي تعليقات."
+
+#: comments.php:18
+msgid "Comments"
+msgstr "التعليقات"
+
+#: comments.php:31
+msgid "&larr; Older Comments"
+msgstr "&larr; أقدم التعليقات"
+
+#: comments.php:32
+msgid "Newer Comments &rarr;"
+msgstr "تعليقات احدث &rarr;"
+
+#: comments.php:37
+msgid "Comments are closed."
+msgstr "التعليقات مغلقه"
+
+#: comments.php:49
+msgid "Submit"
+msgstr "إرسال"
+
+#: inc/functions/back-compat.php:25 inc/functions/back-compat.php:35
+#: inc/functions/back-compat.php:48
+#, php-format
+msgid ""
+"Writee requires at least WordPress version 4.5. You are running version %s. "
+"Please upgrade and try again."
+msgstr ""
+
+#: inc/functions/customizer.php:17
+#, fuzzy
+msgid "Writee Options"
+msgstr "خيارات وريتي"
+
+#: inc/functions/customizer.php:18
+#, fuzzy
+msgid "Panel to update writee theme options"
+msgstr "لوحة لتحديث خيارات الموضوع وريت"
+
+#: inc/functions/customizer.php:23
+msgid "Layout Options"
+msgstr "خيارات تخطيط الصفحة"
+
+#: inc/functions/customizer.php:35
+#, fuzzy
+msgid "Website Layout Options"
+msgstr "خيارات تخطيط الموقع"
+
+#: inc/functions/customizer.php:38
+#, fuzzy
+msgid "Choose between different layout options to be used as default"
+msgstr "الاختيار من بين خيارات تخطيط مختلف لاستخدامه كافتراضي"
+
+#: inc/functions/customizer.php:40 inc/functions/customizer.php:530
+msgid "No Sidebar"
+msgstr "بدون شريط الجانبي"
+
+#: inc/functions/customizer.php:41 inc/functions/customizer.php:531
+msgid "Left Sidebar"
+msgstr "عمود جانبي أيسر"
+
+#: inc/functions/customizer.php:42 inc/functions/customizer.php:532
+msgid "Right Sidebar"
+msgstr "عمود جانبي أيمن"
+
+#: inc/functions/customizer.php:53
+#, fuzzy
+msgid "Blog Excerpt"
+msgstr "مقتطفات بلوق"
+
+#: inc/functions/customizer.php:56
+#, fuzzy
+msgid "Turn ON to show auto Excerpt and OFF to show full posts."
+msgstr ""
+"والسيارات \"على تشغيل\" لإظهار مقتطفات وإيقاف التشغيل لإظهار كامل الوظائف."
+
+#: inc/functions/customizer.php:58 inc/functions/customizer.php:84
+#: inc/functions/customizer.php:169 inc/functions/customizer.php:580
+msgid "ON"
+msgstr "تشغيل"
+
+#: inc/functions/customizer.php:59 inc/functions/customizer.php:85
+#: inc/functions/customizer.php:170 inc/functions/customizer.php:581
+msgid "OFF"
+msgstr ""
+
+#: inc/functions/customizer.php:67
+msgid "Slider Options"
+msgstr "خيارات العرض"
+
+#: inc/functions/customizer.php:79
+#, fuzzy
+msgid "Display Slider"
+msgstr "اظهار العقارات كشريط تمرير"
+
+#: inc/functions/customizer.php:97 inc/functions/customizer.php:115
+#, fuzzy
+msgid "Slider Display Style"
+msgstr "نمط عرض شريط التمرير"
+
+#: inc/functions/customizer.php:102 inc/functions/customizer.php:556
+#, fuzzy
+msgid "Fluid Layout"
+msgstr "تخطيط السوائل"
+
+#: inc/functions/customizer.php:103 inc/functions/customizer.php:557
+#, fuzzy
+msgid "Non Fluid Layout"
+msgstr "تخطيط غير السائل"
+
+#: inc/functions/customizer.php:120 inc/functions/customizer.php:568
+msgid "Latest added posts"
+msgstr "المضافة اخيرا"
+
+#: inc/functions/customizer.php:121 inc/functions/customizer.php:569
+msgid "Specific category"
+msgstr "من تصنيف معين"
+
+#: inc/functions/customizer.php:132
+#, fuzzy
+msgid "Slider Post Categories"
+msgstr "تصنيفات المقال"
+
+#: inc/functions/customizer.php:135
+#, fuzzy
+msgid ""
+"Add post categories id comma separated (This option valid only for SPECIFIC "
+"CATEGORY view selection)."
+msgstr ""
+"إضافة وظيفة فئات معرف مفصولة بفاصلة (هذا الخيار صالحة فقط من أجل تحديد طريقة "
+"عرض الفئة المحددة)."
+
+#: inc/functions/customizer.php:146
+msgid "Number of slides"
+msgstr "عدد السلايدرات"
+
+#: inc/functions/customizer.php:149 inc/functions/customizer.php:185
+#, fuzzy
+msgid "Choose the number of slides you want to display"
+msgstr "اختر عدد الشرائح التي تريد عرضها"
+
+#: inc/functions/customizer.php:164
+#, fuzzy
+msgid "Slider Content Meta"
+msgstr "ميتا محتوى شريط التمرير"
+
+#: inc/functions/customizer.php:167
+msgid "Choose slider content meta display or not."
+msgstr "اختر عرض شريط التمرير ميتا المحتوى أم لا."
+
+#: inc/functions/customizer.php:182
+#, fuzzy
+msgid "Slide Duration"
+msgstr "مدة الشريحة"
+
+#: inc/functions/customizer.php:196
+#, fuzzy
+msgid "Theme Colors Section"
+msgstr "قسم ألوان السمة"
+
+#: inc/functions/customizer.php:197
+msgid "Theme primary color"
+msgstr "اللون الأساسي للقالب"
+
+#: inc/functions/customizer.php:209
+msgid "Primary Color"
+msgstr "لون أصلي"
+
+#: inc/functions/customizer.php:216
+msgid "Typography"
+msgstr "تايبوغرافي"
+
+#: inc/functions/customizer.php:228 inc/functions/customizer.php:234
+msgid "Google Font URL"
+msgstr "خطوط جوجل"
+
+#: inc/functions/customizer.php:232
+msgid "Insert"
+msgstr "إدراج"
+
+#: inc/functions/customizer.php:235
+msgid "for embed fonts."
+msgstr "لتضمين الخطوط."
+
+#: inc/functions/customizer.php:247
+msgid "Font Family"
+msgstr "عائلة الخط"
+
+#: inc/functions/customizer.php:250
+#, fuzzy
+msgid "Insert Font Family."
+msgstr "إدراج عائلة الخط."
+
+#: inc/functions/customizer.php:261
+msgid "Font Size"
+msgstr "حجم الخط"
+
+#: inc/functions/customizer.php:264
+#, fuzzy
+msgid "Select Font Size."
+msgstr "حدد حجم الخط"
+
+#: inc/functions/customizer.php:280
+msgid "Line Height"
+msgstr "ارتفاع الخط"
+
+#: inc/functions/customizer.php:283
+#, fuzzy
+msgid "Slect Line Height."
+msgstr "ارتفاع الخط سليكت."
+
+#: inc/functions/customizer.php:298
+#, fuzzy
+msgid "Letter Space"
+msgstr "مساحة الرسالة"
+
+#: inc/functions/customizer.php:301
+msgid "Select Letter Space."
+msgstr ""
+
+#: inc/functions/customizer.php:313
+msgid "Social Media Icons"
+msgstr "آيكونات السوشال ميديا"
+
+#: inc/functions/customizer.php:325 inc/functions/widgets/social-icons.php:110
+#, fuzzy
+msgid "Social Button Style"
+msgstr "نمط الزر الاجتماعية"
+
+#: inc/functions/customizer.php:329 inc/functions/customizer.php:543
+#: inc/functions/widgets/social-icons.php:113
+msgid "Default Color"
+msgstr "اللون الافتراضي"
+
+#: inc/functions/customizer.php:330 inc/functions/customizer.php:544
+#: inc/functions/widgets/social-icons.php:114
+msgid "Theme Color"
+msgstr "لون القالب"
+
+#: inc/functions/customizer.php:331 inc/functions/customizer.php:545
+#: inc/functions/widgets/social-icons.php:115
+msgid "Icon Original Color"
+msgstr "رمز اللون الأصلي"
+
+#: inc/functions/customizer.php:343
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/functions/customizer.php:355
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/functions/customizer.php:367
+msgid "Instagram"
+msgstr "انستاغرام:"
+
+#: inc/functions/customizer.php:379
+msgid "Google+"
+msgstr "Google+"
+
+#: inc/functions/customizer.php:391
+msgid "LinkedIn"
+msgstr "لينكادن"
+
+#: inc/functions/customizer.php:403
+msgid "YouTube"
+msgstr "اليوتيوب"
+
+#: inc/functions/customizer.php:415
+msgid "Pinterest"
+msgstr "رابط Pinterest"
+
+#: inc/functions/customizer.php:427
+msgid "Dribbble"
+msgstr "دريبل"
+
+#: inc/functions/customizer.php:435
+msgid "Footer Section"
+msgstr "مقطع التذييل"
+
+#: inc/functions/customizer.php:436
+#, fuzzy
+msgid "Footer section content settings"
+msgstr "تذييل الصفحة في المقطع إعدادات المحتوى"
+
+#: inc/functions/customizer.php:447
+msgid "Copyright Text"
+msgstr "نص حقوق التأليف والنشر"
+
+#: inc/functions/customizer.php:454 inc/functions/customizer.php:466
+#, fuzzy
+msgid "About Theme"
+msgstr "حول موضوع"
+
+#: inc/functions/customizer.php:655
+msgid "Upgrade To Pro"
+msgstr "الترقية إلى برو"
+
+#: inc/functions/customizer.php:658
+msgid "Documentation"
+msgstr "الوثائق"
+
+#: inc/functions/customizer.php:665
+#, fuzzy
+msgid ""
+"The best way to contact us with <b>support questions</b> and <b>bug reports</"
+"b> is via"
+msgstr ""
+"أفضل طريقة للاتصال بنا مع <b>أسئلة الدعم </b> و <b>تقارير الأخطاء</b> يتم عن "
+"طريق"
+
+#: inc/functions/customizer.php:667
+#, fuzzy
+msgid "Writee support forum"
+msgstr "وريت دعم المنتدى"
+
+#: inc/functions/customizer.php:669
+msgid "If you like this theme, I'd appreciate any of the following:"
+msgstr "إذا كنت تحب هذا القالب،  نقدر أياً من الإجراءات التالية:"
+
+#: inc/functions/customizer.php:672
+msgid "Rate this Theme"
+msgstr "قدر هذا القالب"
+
+#: inc/functions/featured-media.php:23
+#, php-format
+msgid "Permalink to: \"%s\""
+msgstr "الرابط الثابت إلى: %s"
+
+#: inc/functions/navigations.php:11
+msgid "Primary Menu"
+msgstr "القائمة الرئيسية"
+
+#: inc/functions/sidebars.php:17
+msgid "Primary Sidebar"
+msgstr "الشريط الجانبي الرئيسي"
+
+#: inc/functions/sidebars.php:19
+#, fuzzy
+msgid ""
+"Primary sidebar of the theme. Display on left or right side of the theme"
+msgstr ""
+"الشريط الجانبي الرئيسي للموضوع. عرض على الجانب الأيسر أو الأيمن للموضوع"
+
+#: inc/functions/sidebars.php:39
+msgid "Footer "
+msgstr "ذيل الصفحة"
+
+#: inc/functions/sidebars.php:41
+#, fuzzy
+msgid "Footer bottom area vertical widgets."
+msgstr "تذييل الصفحة أسفل منطقة الحاجيات الرأسي."
+
+#: inc/functions/theme-functions.php:253
+msgid "&larr; Previous"
+msgstr "سابق"
+
+#: inc/functions/theme-functions.php:254
+msgid "Next &rarr;"
+msgstr "التالى"
+
+#: inc/functions/theme-functions.php:271
+msgid "Pingback:"
+msgstr "تنبيه :"
+
+#: inc/functions/theme-functions.php:271
+msgid "(Edit)"
+msgstr "(تعديل)"
+
+#: inc/functions/theme-functions.php:283
+msgid "Post<br>Author"
+msgstr "كاتب<br> الموضوع"
+
+#: inc/functions/theme-functions.php:295
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: inc/functions/theme-functions.php:300
+msgid "<i class=\"icon-edit\"></i> Edit"
+msgstr ""
+
+#: inc/functions/theme-functions.php:306
+msgid "Your comment is awaiting moderation."
+msgstr "تعليقك بانتظار الموافقة."
+
+#: inc/functions/widgets/about-me.php:9
+msgid "WRITEE - About Me"
+msgstr ""
+
+#: inc/functions/widgets/about-me.php:10
+#, fuzzy
+msgid "About me widget content."
+msgstr "عني محتوى القطعة."
+
+#: inc/functions/widgets/about-me.php:61
+#: inc/functions/widgets/recent-posts.php:20
+#: inc/functions/widgets/recent-posts.php:72
+#: inc/functions/widgets/social-icons.php:104
+msgid "Title"
+msgstr "العنوان"
+
+#: inc/functions/widgets/about-me.php:66
+msgid "Author Name"
+msgstr "اسم الكاتب"
+
+#: inc/functions/widgets/about-me.php:72
+msgid "Author Image"
+msgstr "صورة الكاتب"
+
+#: inc/functions/widgets/about-me.php:77
+msgid "Description"
+msgstr "نص الاعلان"
+
+#: inc/functions/widgets/recent-posts.php:8
+#, fuzzy
+msgid "WRITEE - Recent Posts"
+msgstr "وريت-المشاركات الحديثة"
+
+#: inc/functions/widgets/recent-posts.php:9
+#, fuzzy
+msgid "The most recent posts on your blog."
+msgstr "أحدث المشاركات على موقع الويب الخاص بك."
+
+#: inc/functions/widgets/recent-posts.php:27
+#, fuzzy
+msgid "Ignore sticky posts"
+msgstr "تجاهل الملصقة الوظائف"
+
+#: inc/functions/widgets/recent-posts.php:32
+msgid "Show up to"
+msgstr "أظهر حتي"
+
+#: inc/functions/widgets/recent-posts.php:33
+msgid "posts"
+msgstr "المشاركات"
+
+#: inc/functions/widgets/recent-posts.php:38
+msgid "Offset"
+msgstr "ازاحة"
+
+#: inc/functions/widgets/recent-posts.php:41
+msgid "The number of posts to skip"
+msgstr "عدد المقالات المتخطاه:"
+
+#: inc/functions/widgets/recent-posts.php:46
+msgid "Post Status"
+msgstr "حالة المنشور"
+
+#: inc/functions/widgets/recent-posts.php:57
+msgid "Order"
+msgstr "ترتيب"
+
+#: inc/functions/widgets/recent-posts.php:60
+msgid "Descending"
+msgstr "تنازلي"
+
+#: inc/functions/widgets/recent-posts.php:61
+msgid "Ascending"
+msgstr "تصاعدي"
+
+#: inc/functions/widgets/recent-posts.php:67
+msgid "Orderby"
+msgstr "عرض حسب:"
+
+#: inc/functions/widgets/recent-posts.php:70
+msgid "ID"
+msgstr "التعرف"
+
+#: inc/functions/widgets/recent-posts.php:71
+msgid "Author"
+msgstr "الكاتب"
+
+#: inc/functions/widgets/recent-posts.php:73
+msgid "Date"
+msgstr "التاريخ"
+
+#: inc/functions/widgets/recent-posts.php:74
+msgid "Modified"
+msgstr "معدلة"
+
+#: inc/functions/widgets/recent-posts.php:75
+msgid "Random"
+msgstr "سويفت المتزلج عشوائية"
+
+#: inc/functions/widgets/recent-posts.php:76
+msgid "Comment Count"
+msgstr "عدد التعليقات"
+
+#: inc/functions/widgets/recent-posts.php:77
+msgid "Menu Order"
+msgstr "ترتيب القائمة"
+
+#: inc/functions/widgets/recent-posts.php:84
+#, fuzzy
+msgid "Display post category(ies)"
+msgstr "عرض وظيفة ستصاغ"
+
+#: inc/functions/widgets/recent-posts.php:91
+#, fuzzy
+msgid "Display post author(s)"
+msgstr "عرض وظيفة المؤلف"
+
+#: inc/functions/widgets/recent-posts.php:98
+msgid "Display Date"
+msgstr "عرض التاريخ"
+
+#: inc/functions/widgets/recent-posts.php:177
+#: inc/theme/posts/post-related.php:29
+#, php-format
+msgid "Permalink to %s"
+msgstr "الرابط الدائم لـ %s"
+
+#: inc/functions/widgets/recent-posts.php:184 inc/theme/sliders/slider.php:87
+#: inc/theme/views/content-post-header.php:54
+#: inc/theme/views/content-post-header.php:64
+#: inc/theme/views/content-post-header.php:76
+#: inc/theme/views/content-post-header.php:87
+msgid "By"
+msgstr "بواسطة"
+
+#: inc/functions/widgets/recent-posts.php:188
+#: inc/theme/views/content-post-header.php:55
+#: inc/theme/views/content-post-header.php:66
+#: inc/theme/views/content-post-header.php:78
+#: inc/theme/views/content-post-header.php:89
+msgid "on"
+msgstr "/"
+
+#: inc/functions/widgets/recent-posts.php:199
+msgid "No post found."
+msgstr "لا يتم العثور على  المشاركة !"
+
+#: inc/functions/widgets/social-icons.php:9
+#, fuzzy
+msgid "WRITEE - Social Media URL"
+msgstr "وريت-URL الوسائط الاجتماعية"
+
+#: inc/functions/widgets/social-icons.php:10
+msgid "Social media URL widget."
+msgstr "وسائل الإعلام الاجتماعية URL القطعة."
+
+#: inc/functions/widgets/social-icons.php:120
+msgid "Facebook URL"
+msgstr "رابط Facebook"
+
+#: inc/functions/widgets/social-icons.php:124
+msgid "Twitter URL"
+msgstr "رابط Twitter"
+
+#: inc/functions/widgets/social-icons.php:128
+msgid "Instagram URL"
+msgstr "رابط Instagram"
+
+#: inc/functions/widgets/social-icons.php:133
+msgid "Linkedin URL"
+msgstr "رابط ينكدين Linkedin"
+
+#: inc/functions/widgets/social-icons.php:139
+msgid "Google+ URL"
+msgstr "رابط Google+"
+
+#: inc/functions/widgets/social-icons.php:144
+msgid "YouTube URL"
+msgstr "الينك YouTube"
+
+#: inc/functions/widgets/social-icons.php:149
+msgid "Pinterest URL"
+msgstr "رابط بينتيريست"
+
+#: inc/functions/widgets/social-icons.php:154
+msgid "Dribble URL"
+msgstr "رابط Dribble"
+
+#: inc/theme/footers/footer.php:36
+msgid "Theme by"
+msgstr "تصميم القالب بواسطة"
+
+#: inc/theme/footers/footer.php:37
+msgid "http://www.scissorthemes.com/"
+msgstr "http://www.scissorthemes.com/"
+
+#: inc/theme/footers/footer.php:37 inc/theme/footers/footer.php:39
+#, php-format
+msgid " %s"
+msgstr ""
+
+#: inc/theme/footers/footer.php:38
+msgid "Proudly powered by"
+msgstr "مشغل بفخر من خلال"
+
+#: inc/theme/footers/footer.php:39
+msgid "https://wordpress.org/"
+msgstr "https://www.mycomputer-me.com/"
+
+#: inc/theme/headers/header1.php:47
+msgid "HOME"
+msgstr "الرئيسية"
+
+#: inc/theme/headers/header1.php:49
+msgid "ABOUT US"
+msgstr "معلومات عنا"
+
+#: inc/theme/headers/header1.php:51
+msgid "PARENT PAGE"
+msgstr "العقاراتID"
+
+#: inc/theme/headers/header1.php:55
+msgid "SUB PAGE"
+msgstr "صفحة فرعية"
+
+#: inc/theme/posts/post-related.php:20
+msgid "Related Posts"
+msgstr "مقالات مشابهة"
+
+#: inc/theme/views/content-none.php:11
+msgid "Nothing Found"
+msgstr "الصفحه غير موجودة"
+
+#: inc/theme/views/content-none.php:17
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "هل انت متعد لنشر اول منشور لك ؟  <a href=\"%1$s\">ابدأ من هنا</a>."
+
+#: inc/theme/views/content-none.php:20
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"آسف، ولكن لا شيء يضاهي شروط البحث الخاصة بك. يرجى المحاولة مرة أخرى مع بعض "
+"كلمات مختلفة."
+
+#: inc/theme/views/content-none.php:24
+#, fuzzy
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"يبدو أننا يمكن can&rsquo;t العثور على ما  you&rsquo;re  إعادة ما تبحث عنه."
+
+#: inc/theme/views/content-post-footer.php:10
+msgid "Continue Reading"
+msgstr "متابعة القرأة"
+
+#: inc/theme/views/content.php:41
+msgid "Previous Post"
+msgstr "المقال السابق"
+
+#: inc/theme/views/content.php:47
+msgid "Next Post"
+msgstr "المقال التالي"
+
+#: search.php:25
+#, php-format
+msgid "Search Results for: %s"
+msgstr "نتائج البحث عن: %s"
+
+#: searchform.php:3
+msgid "Search for:"
+msgstr "البحث عن:"
+
+#: searchform.php:5
+msgid "Search..."
+msgstr "البحث‪…‬"
+
+#: searchform.php:7
+msgid "Search"
+msgstr "بحث"
+
+#: tag.php:25
+#, php-format
+msgid "Tag Archives: %s"
+msgstr "وسم الآرشيف: %s"
