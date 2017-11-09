@@ -1,6 +1,6 @@
 <?php
 /**
-   Template Name:  Homepage2
+   Template Name:  Full Width
  */
  ?>
 <?php include_once('header.php'); ?>

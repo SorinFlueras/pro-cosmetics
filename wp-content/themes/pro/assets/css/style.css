@@ -313,6 +313,55 @@ blockquote:hover {
 	right:0;
 }
 
+/*Clients (Flexslider)*/
+.clients {
+	box-shadow:none !important;
+	margin-bottom:0 !important;    
+}
+.clients li {
+	float:left;
+	overflow:hidden;
+	margin-left:1px;
+	position:relative;
+	background:#fafafa;
+}
+.clients li:hover {
+	background:#f6f6f6;
+}
+.clients li img.color-img {
+	top:0;
+	left:0;
+	display:none;
+	position:absolute;
+}
+.clients li:hover img.color-img { 
+	display:block;
+}
+.clients li img {
+    filter:gray; /* IE6-9 */
+	float:none !important;
+	margin:0 auto !important;
+}
+.clients li img:hover {
+    filter:none;
+}
+.clients, 
+.flexslider.home {
+    border:0px;
+    overflow:hidden;
+    margin-top:10px;      
+    margin-bottom:30px;      
+	border-radius:0;
+	-moz-border-radius:0;
+	-webkit-border-radius:0;
+}
+
+.flexslider { 
+	margin-top:10px !important;
+}
+.flexslider .flex-direction-nav a {
+	margin-top:-10px !important;
+}
 
 /*Pegination*/
 .pagination ul {
@@ -639,7 +688,25 @@ blockquote:hover {
 	transition:all 0.4s ease-in-out;
 }
 
+/*Home Page "Options"
+------------------------------------*/
+/*Slider*/
+.slider-inner .da-slider {
+	box-shadow:none;
+	border-bottom:2px solid #ddd;
+}
 
+/*Carousel*/
+.carousel-control { 
+	color:#fff; 
+	border:none; 
+	margin-top:0;
+	border-radius:2px; 
+}
+.carousel-control:hover { 
+	opacity:1;
+	color:#72c02c; 
+}
 
 /*Tabs*/
 .nav-tabs { 
@@ -1781,6 +1848,12 @@ i.style-switcher-btn-option:hover {
 	background: #ecf0f1;
 }
 
+/*Revolution Slider*/
+.bg-black-opacity {
+	background: url(../img/sliders/revolution/bg-text.png) repeat;
+	padding: 7px;
+	text-shadow: none !important;
+}
 /* Others */
 .spt20 {
     margin-top: 20px;

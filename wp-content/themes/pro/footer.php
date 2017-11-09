@@ -51,12 +51,22 @@
 <script type="text/javascript" src="<?php echo get_template_directory_uri(); ?>/assets/js/modernizr.custom.js"></script>		
 <script type="text/javascript" src="<?php echo get_template_directory_uri(); ?>/assets/plugins/bootstrap/js/bootstrap.min.js"></script>	
 <!-- JS Implementing Plugins -->
+<script type="text/javascript" src="<?php echo get_template_directory_uri(); ?>/assets/plugins/flexslider/jquery.flexslider-min.js"></script>
+<script type="text/javascript" src="<?php echo get_template_directory_uri(); ?>/assets/plugins/parallax-slider/js/modernizr.js"></script>
+<script type="text/javascript" src="<?php echo get_template_directory_uri(); ?>/assets/plugins/parallax-slider/js/jquery.cslider.js"></script> 
 <script type="text/javascript" src="<?php echo get_template_directory_uri(); ?>/assets/plugins/back-to-top.js"></script>
 <!-- JS Page Level -->           
 <script type="text/javascript" src="<?php echo get_template_directory_uri(); ?>/assets/js/app.js"></script>
 <script type="text/javascript" src="<?php echo get_template_directory_uri(); ?>/assets/js/pages/index.js"></script>
-
+<script type="text/javascript">
+    jQuery(document).ready(function() {
+      	App.init();
+        App.initSliders();
+        Index.initParallaxSlider();
+    });
+</script>
 <!-- Le javascript -->
+
 
 	<script src="assets/js/bootstrap-tooltip.js"></script>
 	<script src="assets/js/jquery.ba-hashchange.min.js"></script>

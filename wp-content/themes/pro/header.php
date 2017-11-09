@@ -12,10 +12,13 @@
     <link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/assets/css/style.css" />
     <link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/assets/css/headers/header1.css" />
     <link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/assets/plugins/bootstrap/css/bootstrap-responsive.min.css" />
-    <link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/assets/css/style_responsive.css" />       
+    <link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/assets/css/style_responsive.css" />
+    <link rel="shortcut icon" href="<?php echo get_template_directory_uri(); ?>/favicon.ico" />        
     <!-- CSS Implementing Plugins -->    
     <link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/assets/plugins/font-awesome/css/font-awesome.css" />
-   <!-- CSS Theme -->    
+    <link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/assets/plugins/flexslider/flexslider.css" type="text/css" media="screen" />    	
+    <link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/assets/plugins/parallax-slider/css/parallax-slider.css" type="text/css" />
+    <!-- CSS Theme -->    
     <link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/assets/css/themes/default.css" id="style_color" />
     <link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/assets/css/themes/headers/default.css" id="style_color-header-1" />    
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" /></head>	
@@ -68,6 +71,9 @@
                     <ul class="nav top-2">
                         <li><a href="http://pro-cosmetics.eu/">Home</a></li>
                          <li><a href="https://pro-cosmetics.eu/magazin/">Magazin</a></li>
+                          <li><a href="https://pro-cosmetics.eu/promotii/">Promotii</a></li>
+                          <li><a href="https://pro-cosmetics.eu/noutati/">Noutati</a></li>
+                          <li><a href="https://pro-cosmetics.eu/contact/">Contact</a></li>
                         <?php
                             if ( is_user_logged_in() ) {
                                 echo '<li ><a href="http://pro-cosmetics.eu/contul-meu/">Contul Meu</a></li>';
@@ -84,7 +90,28 @@
 <?php
 if (is_home()) {
 ?>
-
+<!--=== Slider ===-->
+<div class="slider-inner">
+    <div id="da-slider" class="da-slider">
+        <div class="da-slide">
+            <h2><i>Uscator Profesional ULTRAUSOR</i></h2>
+            <div class="da-img"><img src="http://pro-cosmetics.eu/wp-content/themes/pro/images/1.png" alt="" /></div>
+        </div>
+        <div class="da-slide">
+            <h2><i>EPILARE</i><br /></h2>
+            <div class="da-img"><img src="http://pro-cosmetics.eu/wp-content/themes/pro/images/2.png" alt="" /></div>
+        </div>
+        <div class="da-slide">
+            <h2><i>BIGUDIURI</i><br /></h2>
+            <div class="da-img"><img src="<?php echo get_template_directory_uri(); ?>/images/3.png alt="" /></div>
+        </div>
+        <nav class="da-arrows">
+            <span class="da-arrows-prev"></span>
+            <span class="da-arrows-next"></span>		
+        </nav>
+    </div><!--/da-slider-->
+</div><!--/slider-->
+<!--=== End Slider ===-->
 <div class="spt20"></div>
     
 <?php } ?>

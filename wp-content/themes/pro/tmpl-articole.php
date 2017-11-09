@@ -1,6 +1,6 @@
 <?php
 /**
-   Template Name:  Noutati
+   Template Name:  Articole
  */
  ?>
 <?php include_once('header.php'); ?>
@@ -15,7 +15,7 @@
             	<div class="headline"><h3>Articole</h3></div>
             <ul class="thumbnails">
 
-             <?php query_posts('cat=24'); ?>
+             <?php query_posts('cat=1'); ?>
             <?php if (have_posts()) : ?>
 			<?php while (have_posts()) : the_post(); ?>
 

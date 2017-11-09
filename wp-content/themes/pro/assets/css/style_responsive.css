@@ -72,6 +72,39 @@
 	}
 }
 
+@media (max-width: 900px) {
+	/*Slider Sequence*/
+	#sequence-theme .info {
+		top:80px !important;
+		width:60% !important;
+		margin-right:50px;
+	}
+
+	/*Slider Parallax*/
+	.da-slide .da-img {
+		display:none;
+	}
+}
+
+@media (max-width: 450px) {
+	/*Slider Sequence*/
+	#sequence-theme .info {
+		top:70px !important;
+		width:70% !important;
+		margin-right:25px;
+	}
+	#sequence-theme h2 {
+		font-size:30px !important;
+	}
+	#sequence-theme .info p {
+		font-size:18px !important;
+	}
+
+	/*Slider Parallax*/
+	.da-slide p {
+		display:none;
+	}
+}
 
 @media (max-width: 900px) { 
 	/*Menu*/
