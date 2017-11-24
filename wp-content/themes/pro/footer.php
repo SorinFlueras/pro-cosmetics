@@ -11,22 +11,28 @@
 			<div class="span4">
 	            <!-- Footer 1 -->
 		        <div class="headline"><h3>Footer 1</h3></div>	
-					
+				 <a href="https://pro-cosmetics.eu/despre-noi/">Despre noi</a><br />
+                  <a href="https://pro-cosmetics.eu/noutati/">Noutati</a><br />
+                   <a href="https://pro-cosmetics.eu/contact/">Contact</a>
 			</div><!--/span4-->	
 			
 			<div class="span4">
                <div class="posts">
                     <div class="headline"><h3>Footer 2</h3></div>
- 
+                    <a href="https://pro-cosmetics.eu/termeni-si-conditii/">Termeni si conditii</a><br />
+                      <a href="https://pro-cosmetics.eu/wishlist/">Wishlist</a><br />
+                    <a href="https://pro-cosmetics.eu/faq/">Intrebari Frecvente</a>
                 </div>
 			</div><!--/span4-->
 
 			<div class="span4">
-	           >
 		        <div class="headline"><h3>Footer 3</h3></div>	
-                
-
-               
+                <a href="https://pro-cosmetics.eu/garantia/">Garantia</a><br />
+                      <a href="https://pro-cosmetics.eu/modalitati-de-plata/">Modalitati de plata</a><br />
+                    <a href="https://www.anpc.gov.ro/">A.N.P.C.</a>
+                 <a href=""></a>
+                  <a href=""></a>
+                   <a href=""></a>               
 			</div><!--/span4-->
 		</div><!--/row-fluid-->	
 	</div><!--/container-->	
@@ -38,7 +44,7 @@
 	<div class="container">
 		<div class="row-fluid">
 			<div class="span8">						
-	            <p>&copy; Pro Cosmetics
+	            <p>&copy; Pro Cosmetics - Toate drepturile rezervate
                  </p>
 			</div>
 		</div><!--/row-fluid-->

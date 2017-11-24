@@ -56,7 +56,7 @@
     <div class="container"> 
         <!-- Logo -->       
         <div class="logo">                                             
-            <a href="http://pro-cosmetics.eu/"><img id="logo-header" src="#g" />Pro Cosmetics</a>
+            <a href="http://pro-cosmetics.eu/"><img id="logo-header" src="https://pro-cosmetics.eu/wp-content/themes/pro/assets/img/logo.png" /></a>
         </div><!-- /logo -->        
                                     
         <!-- Menu -->       
@@ -70,15 +70,15 @@
                 <div class="nav-collapse collapse">                                     
                     <ul class="nav top-2">
                         <li><a href="http://pro-cosmetics.eu/">Home</a></li>
-                         <li><a href="https://pro-cosmetics.eu/magazin/">Magazin</a></li>
+                        
+                          <li><a href="https://pro-cosmetics.eu/categorie-produs/articole-barbati/">Barbati</a></li>
+                          <li><a href="https://pro-cosmetics.eu/categorie-produs/articole-par/aparatura-par/">Articole par</a></li>
+                          <li><a href="https://pro-cosmetics.eu/categorie-produs/epilat/">Epilat</a></li>
+                          <li><a href="https://pro-cosmetics.eu/categorie-produs/pamatuf/">Pamatuf</a></li>
+                          <li><a href="https://pro-cosmetics.eu/categorie-produs/pelerine-tuns/">Pelerine Tuns</a></li>
                           <li><a href="https://pro-cosmetics.eu/promotii/">Promotii</a></li>
                           <li><a href="https://pro-cosmetics.eu/noutati/">Noutati</a></li>
-                          <li><a href="https://pro-cosmetics.eu/contact/">Contact</a></li>
-                        <?php
-                            if ( is_user_logged_in() ) {
-                                echo '<li ><a href="http://pro-cosmetics.eu/contul-meu/">Contul Meu</a></li>';
-                            } 
-                        ?>                            
+                          <li><a href="https://pro-cosmetics.eu/contact/">Contact</a></li>                   
                     </ul>
                     
                 </div><!-- /nav-collapse -->                                
@@ -90,6 +90,7 @@
 <?php
 if (is_home()) {
 ?>
+<br />
 <!--=== Slider ===-->
 <div class="slider-inner">
     <div id="da-slider" class="da-slider">
@@ -98,12 +99,12 @@ if (is_home()) {
             <div class="da-img"><img src="http://pro-cosmetics.eu/wp-content/themes/pro/images/1.png" alt="" /></div>
         </div>
         <div class="da-slide">
-            <h2><i>EPILARE</i><br /></h2>
+            <h2><i>Accesorii pentru Epilat</i><br /></h2>
             <div class="da-img"><img src="http://pro-cosmetics.eu/wp-content/themes/pro/images/2.png" alt="" /></div>
         </div>
         <div class="da-slide">
-            <h2><i>BIGUDIURI</i><br /></h2>
-            <div class="da-img"><img src="<?php echo get_template_directory_uri(); ?>/images/3.png alt="" /></div>
+            <h2><i>Articole barbati</i><br /></h2>
+            <div class="da-img"><img src="http://pro-cosmetics.eu/wp-content/themes/pro/images/3.jpg" alt="" /></div>
         </div>
         <nav class="da-arrows">
             <span class="da-arrows-prev"></span>

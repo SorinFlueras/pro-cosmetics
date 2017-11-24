@@ -177,7 +177,6 @@
 	font-weight:400;
 	color: #687074;
 	text-shadow:none;
-	padding:9px 20px;
 	text-transform:uppercase;
 	border-bottom:solid 2px #eee;
 	font-family:'Open Sans', sans-serif;
@@ -199,7 +198,7 @@
 
 .collapse.in li a:hover,
 .collapse.in li a.dropdown-toggle { 
-	border-bottom:solid 1px #72c02c !important;
+	border-bottom:solid 1px #ee418b !important;
 	background:none;
 }
 
@@ -219,15 +218,15 @@
 
 .navbar .nav > li > a:focus,
 .navbar .nav > li > a:hover {
-  	color:#c43733;
-	border-bottom:solid 2px #c43733;
+  	color:#ee418b;
+	border-bottom:solid 2px #ee418b;
 }
 
 .navbar .nav > .active > a,
 .navbar .nav > .active > a:focus {
-  	color:#c43733;	
+  	color:#ee418b;	
   	text-decoration:none;
-	border-bottom:solid 2px #c43733;
+	border-bottom:solid 2px #ee418b;
   	background:none;	
   	-webkit-box-shadow:none;
        -moz-box-shadow:none;
@@ -235,9 +234,9 @@
 }
 
 .navbar .nav > .active > a:hover {	
-  	color:#72c02c;	
+  	color:#ee418b;	
 	background:none;		
-	border-bottom:solid 2px #72c02c;
+	border-bottom:solid 2px #ee418b;
   	-webkit-box-shadow:none;
        -moz-box-shadow:none;
           	box-shadow:none;
@@ -246,8 +245,8 @@
 /*Arrow for menu*/
 .navbar .nav > li > a .caret {
   margin:9px 0 0 3px !important;	
-  border-top-color: #72c02c!important;	
-  border-bottom-color: #72c02c !important;
+  border-top-color: #ee418b!important;	
+  border-bottom-color: #ee418b !important;
 }
 
 /*Dropdown Menu*/
@@ -257,7 +256,7 @@
 	margin-top:-2px; 
 	min-width:200px;
 	border-radius:0; 
-	border-top:solid 2px #72c02c; 
+	border-top:solid 2px #ee418b; 
 	border-bottom:solid 2px #687074; 
 	z-index: 9999 !important;
 }
@@ -290,7 +289,7 @@
 	padding:10px 15px;
 	margin-top:1px;
 	margin-right:0;
-	background:#72c02c;
+	background:#ee418b;
 	border:none !important;	
 }
 .navbar .btn-navbar:hover {
@@ -311,8 +310,8 @@
 }
 .navbar .nav > li > .dropdown-menu:after {
 	left:19px;
-	border-top-color: #72c02c !important;
-	border-bottom-color: #72c02c !important;
+	border-top-color: #ee418b !important;
+	border-bottom-color: #ee418b !important;
 }
 
 /*Serach*/
@@ -345,8 +344,8 @@
 	border-bottom-color:#aaa;
 }
 .navbar .nav > li > a.search:hover {
-	color:#72c02c;
-	border-bottom-color:#72c02c;
+	color:#ee418b;
+	border-bottom-color:#ee418b;
 }
 
 /*Fancybox for gallery page*/

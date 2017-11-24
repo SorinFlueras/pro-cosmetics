@@ -42,4 +42,9 @@ function my_login_stylesheet() {
     wp_enqueue_style( 'custom-login', get_template_directory_uri() . '/style.css' );
 }
 add_action( 'login_enqueue_scripts', 'my_login_stylesheet' );
+function wpb_custom_new_menu() {
+  register_nav_menu('my-custom-menu',__( 'My Custom Menu' ));
+}
+add_action( 'init', 'wpb_custom_new_menu' );
+
 ?>
